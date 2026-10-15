@@ -1,4 +1,4 @@
-# Reproduce the calculations
+# hidden relaxation in noisy patterns code
 
 ## Setup and run
 
