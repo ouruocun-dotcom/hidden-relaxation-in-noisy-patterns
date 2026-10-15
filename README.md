@@ -1,4 +1,4 @@
-# hidden relaxation in noisy patterns code
+# Hidden relaxation in noisy patterns-Code
 
 ## Setup and run
 
