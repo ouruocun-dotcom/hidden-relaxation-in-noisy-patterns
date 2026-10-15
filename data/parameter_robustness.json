@@ -1,0 +1,2411 @@
+[
+  {
+    "d12": 0.18,
+    "d22": 0.1,
+    "seed": 0,
+    "branches": [
+      {
+        "seed": 0,
+        "m": 10,
+        "entered_at": 1708.0,
+        "captured_at": 1756.0,
+        "changed": true,
+        "change": [
+          606.0,
+          9
+        ],
+        "maximum_compression": 0.20853056321740415,
+        "speed_mismatch": 0.025442351546087965,
+        "final_peak": 7,
+        "mass_drift": 8.482797797526587e-16
+      }
+    ]
+  },
+  {
+    "d12": 0.18,
+    "d22": 0.1,
+    "seed": 1,
+    "branches": [
+      {
+        "seed": 1,
+        "m": 11,
+        "entered_at": 1462.0,
+        "captured_at": 1510.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.28292950955380336,
+        "speed_mismatch": 0.005866788021252692,
+        "final_peak": 11,
+        "mass_drift": 1.087671619437458e-15
+      },
+      {
+        "seed": 1,
+        "m": 10,
+        "entered_at": 1814.0,
+        "captured_at": 1862.0,
+        "changed": true,
+        "change": [
+          434.0,
+          9
+        ],
+        "maximum_compression": 0.28769577330102436,
+        "speed_mismatch": 0.017176192968182666,
+        "final_peak": 8,
+        "mass_drift": 2.7755575615628914e-17
+      },
+      {
+        "seed": 1,
+        "m": 9,
+        "entered_at": 2364.0,
+        "captured_at": 2412.0,
+        "changed": true,
+        "change": [
+          92.0,
+          8
+        ],
+        "maximum_compression": 0.2542718824933251,
+        "speed_mismatch": 0.015451232680583762,
+        "final_peak": 9,
+        "mass_drift": 3.920475055707584e-16
+      }
+    ]
+  },
+  {
+    "d12": 0.18,
+    "d22": 0.1,
+    "seed": 2,
+    "branches": [
+      {
+        "seed": 2,
+        "m": 11,
+        "entered_at": 996.0,
+        "captured_at": 1044.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.12670495876455456,
+        "speed_mismatch": 0.011658859413402951,
+        "final_peak": 11,
+        "mass_drift": 2.2967738821932926e-15
+      },
+      {
+        "seed": 2,
+        "m": 10,
+        "entered_at": 2124.0,
+        "captured_at": 2172.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.19917469152195932,
+        "speed_mismatch": 0.012876556623065999,
+        "final_peak": 10,
+        "mass_drift": 2.143250854569345e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.18,
+    "d22": 0.1,
+    "seed": 3,
+    "branches": [
+      {
+        "seed": 3,
+        "m": 11,
+        "entered_at": 688.0,
+        "captured_at": 736.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.33046160334155716,
+        "speed_mismatch": 0.01227357097584518,
+        "final_peak": 11,
+        "mass_drift": 1.3253287356462806e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.18,
+    "d22": 0.1,
+    "seed": 4,
+    "branches": [
+      {
+        "seed": 4,
+        "m": 11,
+        "entered_at": 1088.0,
+        "captured_at": 1136.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.239411654364156,
+        "speed_mismatch": 0.008715046357694274,
+        "final_peak": 11,
+        "mass_drift": 5.238864897449957e-16
+      },
+      {
+        "seed": 4,
+        "m": 10,
+        "entered_at": 2072.0,
+        "captured_at": 2120.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.297583652606091,
+        "speed_mismatch": 0.01303462230233722,
+        "final_peak": 10,
+        "mass_drift": 2.600350490489234e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.18,
+    "d22": 0.1,
+    "seed": 5,
+    "branches": [
+      {
+        "seed": 5,
+        "m": 10,
+        "entered_at": 1508.0,
+        "captured_at": 1556.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.2565263790915445,
+        "speed_mismatch": 0.021633054049405468,
+        "final_peak": 10,
+        "mass_drift": 4.538036613155327e-15
+      },
+      {
+        "seed": 5,
+        "m": 9,
+        "entered_at": 2098.0,
+        "captured_at": 2146.0,
+        "changed": true,
+        "change": [
+          60.0,
+          8
+        ],
+        "maximum_compression": 0.2849366716600239,
+        "speed_mismatch": 0.012204842159955868,
+        "final_peak": 6,
+        "mass_drift": 7.979727989493313e-17
+      }
+    ]
+  },
+  {
+    "d12": 0.18,
+    "d22": 0.1,
+    "seed": 6,
+    "branches": [
+      {
+        "seed": 6,
+        "m": 11,
+        "entered_at": 1162.0,
+        "captured_at": 1210.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.29849432617736926,
+        "speed_mismatch": 0.0140426770045681,
+        "final_peak": 11,
+        "mass_drift": 3.419573652019281e-15
+      },
+      {
+        "seed": 6,
+        "m": 10,
+        "entered_at": 1378.0,
+        "captured_at": 1426.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.21466007913963947,
+        "speed_mismatch": 0.008314898942184117,
+        "final_peak": 10,
+        "mass_drift": 1.5890067039947553e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.18,
+    "d22": 0.1,
+    "seed": 7,
+    "branches": [
+      {
+        "seed": 7,
+        "m": 11,
+        "entered_at": 696.0,
+        "captured_at": 744.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.1718473247041219,
+        "speed_mismatch": 0.015594771932407568,
+        "final_peak": 11,
+        "mass_drift": 1.7780915628762273e-15
+      },
+      {
+        "seed": 7,
+        "m": 10,
+        "entered_at": 1406.0,
+        "captured_at": 1454.0,
+        "changed": true,
+        "change": [
+          184.0,
+          9
+        ],
+        "maximum_compression": 0.31466590272008976,
+        "speed_mismatch": 0.012723973431499384,
+        "final_peak": 10,
+        "mass_drift": 2.7755575615628914e-16
+      },
+      {
+        "seed": 7,
+        "m": 9,
+        "entered_at": 1982.0,
+        "captured_at": 2030.0,
+        "changed": true,
+        "change": [
+          116.0,
+          8
+        ],
+        "maximum_compression": 0.3938258476772739,
+        "speed_mismatch": 0.022010975781386753,
+        "final_peak": 6,
+        "mass_drift": 3.0184188481996443e-16
+      }
+    ]
+  },
+  {
+    "d12": 0.18,
+    "d22": 0.1,
+    "seed": 8,
+    "branches": [
+      {
+        "seed": 8,
+        "m": 11,
+        "entered_at": 1812.0,
+        "captured_at": 1860.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.2902579085104383,
+        "speed_mismatch": 0.015130147723394646,
+        "final_peak": 11,
+        "mass_drift": 4.827735433643454e-15
+      },
+      {
+        "seed": 8,
+        "m": 10,
+        "entered_at": 2068.0,
+        "captured_at": 2116.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.21581231909425835,
+        "speed_mismatch": 0.012144344697096673,
+        "final_peak": 10,
+        "mass_drift": 1.9133999940024182e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.18,
+    "d22": 0.1,
+    "seed": 9,
+    "branches": [
+      {
+        "seed": 9,
+        "m": 11,
+        "entered_at": 1748.0,
+        "captured_at": 1796.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.2873319979131541,
+        "speed_mismatch": 0.012960776412323793,
+        "final_peak": 11,
+        "mass_drift": 1.1553258350005535e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.18,
+    "d22": 0.1,
+    "seed": 10,
+    "branches": [
+      {
+        "seed": 10,
+        "m": 11,
+        "entered_at": 1650.0,
+        "captured_at": 1698.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.18892388579368447,
+        "speed_mismatch": 0.008920795763556637,
+        "final_peak": 11,
+        "mass_drift": 1.7191109646930158e-15
+      },
+      {
+        "seed": 10,
+        "m": 10,
+        "entered_at": 1828.0,
+        "captured_at": 1876.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.4626859200753344,
+        "speed_mismatch": 0.013423788335729103,
+        "final_peak": 10,
+        "mass_drift": 1.923808334858279e-15
+      },
+      {
+        "seed": 10,
+        "m": 9,
+        "entered_at": 2224.0,
+        "captured_at": 2272.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.3031475235282992,
+        "speed_mismatch": 0.009772496658296916,
+        "final_peak": 9,
+        "mass_drift": 2.256875242245826e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.18,
+    "d22": 0.1,
+    "seed": 11,
+    "branches": [
+      {
+        "seed": 11,
+        "m": 11,
+        "entered_at": 1312.0,
+        "captured_at": 1360.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.25701426264036387,
+        "speed_mismatch": 0.011688240359935938,
+        "final_peak": 11,
+        "mass_drift": 3.3931191190106347e-15
+      },
+      {
+        "seed": 11,
+        "m": 10,
+        "entered_at": 1490.0,
+        "captured_at": 1538.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.19345503638807027,
+        "speed_mismatch": 0.01351197813930459,
+        "final_peak": 10,
+        "mass_drift": 4.711508960753008e-15
+      },
+      {
+        "seed": 11,
+        "m": 9,
+        "entered_at": 2318.0,
+        "captured_at": 2366.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.3337592720497695,
+        "speed_mismatch": 0.009597370069207044,
+        "final_peak": 9,
+        "mass_drift": 2.194425197110661e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.18,
+    "d22": 0.1,
+    "seed": 12,
+    "branches": [
+      {
+        "seed": 12,
+        "m": 11,
+        "entered_at": 1142.0,
+        "captured_at": 1190.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.28629946511459436,
+        "speed_mismatch": 0.011368806606575306,
+        "final_peak": 11,
+        "mass_drift": 1.5274240205975786e-15
+      },
+      {
+        "seed": 12,
+        "m": 10,
+        "entered_at": 1610.0,
+        "captured_at": 1658.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.35782114245588303,
+        "speed_mismatch": 0.007778472071678248,
+        "final_peak": 10,
+        "mass_drift": 4.961309141293668e-16
+      },
+      {
+        "seed": 12,
+        "m": 9,
+        "entered_at": 2098.0,
+        "captured_at": 2146.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.37611235491299533,
+        "speed_mismatch": 0.008884806029355999,
+        "final_peak": 9,
+        "mass_drift": 2.662800535624399e-16
+      }
+    ]
+  },
+  {
+    "d12": 0.18,
+    "d22": 0.1,
+    "seed": 13,
+    "branches": [
+      {
+        "seed": 13,
+        "m": 11,
+        "entered_at": 1116.0,
+        "captured_at": 1164.0,
+        "changed": true,
+        "change": [
+          184.0,
+          10
+        ],
+        "maximum_compression": 0.21168425165103177,
+        "speed_mismatch": 0.01884080278851153,
+        "final_peak": 12,
+        "mass_drift": 3.7903707950093235e-16
+      },
+      {
+        "seed": 13,
+        "m": 10,
+        "entered_at": 1406.0,
+        "captured_at": 1454.0,
+        "changed": true,
+        "change": [
+          104.0,
+          9
+        ],
+        "maximum_compression": 0.33127994202751054,
+        "speed_mismatch": 0.02770367255461164,
+        "final_peak": 8,
+        "mass_drift": 6.106226635438361e-16
+      },
+      {
+        "seed": 13,
+        "m": 9,
+        "entered_at": 1570.0,
+        "captured_at": 1618.0,
+        "changed": true,
+        "change": [
+          122.0,
+          7
+        ],
+        "maximum_compression": 0.4543234034623511,
+        "speed_mismatch": 0.03138696597012436,
+        "final_peak": 6,
+        "mass_drift": 5.273559366969494e-16
+      }
+    ]
+  },
+  {
+    "d12": 0.18,
+    "d22": 0.1,
+    "seed": 14,
+    "branches": [
+      {
+        "seed": 14,
+        "m": 11,
+        "entered_at": 776.0,
+        "captured_at": 824.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.19004087895756028,
+        "speed_mismatch": 0.01636714823385988,
+        "final_peak": 11,
+        "mass_drift": 3.5214886562329184e-16
+      },
+      {
+        "seed": 14,
+        "m": 10,
+        "entered_at": 1382.0,
+        "captured_at": 1430.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.19624471916307729,
+        "speed_mismatch": 0.004775779097058383,
+        "final_peak": 10,
+        "mass_drift": 1.0651202142497596e-15
+      },
+      {
+        "seed": 14,
+        "m": 9,
+        "entered_at": 2002.0,
+        "captured_at": 2050.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.3278710101992306,
+        "speed_mismatch": 0.01544052284200071,
+        "final_peak": 9,
+        "mass_drift": 9.020562075079397e-16
+      }
+    ]
+  },
+  {
+    "d12": 0.18,
+    "d22": 0.1,
+    "seed": 15,
+    "branches": [
+      {
+        "seed": 15,
+        "m": 10,
+        "entered_at": 1282.0,
+        "captured_at": 1330.0,
+        "changed": true,
+        "change": [
+          172.0,
+          9
+        ],
+        "maximum_compression": 0.41766832494336226,
+        "speed_mismatch": 0.018415433189021713,
+        "final_peak": 8,
+        "mass_drift": 2.8796409701215e-16
+      },
+      {
+        "seed": 15,
+        "m": 9,
+        "entered_at": 1388.0,
+        "captured_at": 1436.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.4432997872436367,
+        "speed_mismatch": 0.013718405333545729,
+        "final_peak": 9,
+        "mass_drift": 4.848552115355176e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.18,
+    "d22": 0.1,
+    "seed": 16,
+    "branches": [
+      {
+        "seed": 16,
+        "m": 10,
+        "entered_at": 1084.0,
+        "captured_at": 1132.0,
+        "changed": true,
+        "change": [
+          288.0,
+          9
+        ],
+        "maximum_compression": 0.24587205752230423,
+        "speed_mismatch": 0.030001409478984012,
+        "final_peak": 9,
+        "mass_drift": 4.926614671774132e-16
+      },
+      {
+        "seed": 16,
+        "m": 9,
+        "entered_at": 1424.0,
+        "captured_at": 1472.0,
+        "changed": true,
+        "change": [
+          476.0,
+          8
+        ],
+        "maximum_compression": 0.3923510387116439,
+        "speed_mismatch": 0.02027338498419993,
+        "final_peak": 6,
+        "mass_drift": 7.424616477180734e-16
+      }
+    ]
+  },
+  {
+    "d12": 0.18,
+    "d22": 0.1,
+    "seed": 17,
+    "branches": [
+      {
+        "seed": 17,
+        "m": 11,
+        "entered_at": 1766.0,
+        "captured_at": 1814.0,
+        "changed": true,
+        "change": [
+          600.0,
+          10
+        ],
+        "maximum_compression": 0.2639255870272945,
+        "speed_mismatch": 0.016039267451648263,
+        "final_peak": 10,
+        "mass_drift": 2.1441182163073336e-15
+      },
+      {
+        "seed": 17,
+        "m": 10,
+        "entered_at": 1946.0,
+        "captured_at": 1994.0,
+        "changed": true,
+        "change": [
+          538.0,
+          9
+        ],
+        "maximum_compression": 0.40505547564024336,
+        "speed_mismatch": 0.01380108104782568,
+        "final_peak": 9,
+        "mass_drift": 5.30825383648903e-16
+      },
+      {
+        "seed": 17,
+        "m": 9,
+        "entered_at": 2272.0,
+        "captured_at": 2320.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.31421402626038186,
+        "speed_mismatch": 0.016308906769617677,
+        "final_peak": 9,
+        "mass_drift": 1.7069679003611782e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.18,
+    "d22": 0.1,
+    "seed": 18,
+    "branches": [
+      {
+        "seed": 18,
+        "m": 11,
+        "entered_at": 1516.0,
+        "captured_at": 1564.0,
+        "changed": true,
+        "change": [
+          90.0,
+          9
+        ],
+        "maximum_compression": 0.3099992392608846,
+        "speed_mismatch": 0.02096025727689676,
+        "final_peak": 10,
+        "mass_drift": 4.3368086899420177e-16
+      },
+      {
+        "seed": 18,
+        "m": 9,
+        "entered_at": 1636.0,
+        "captured_at": 1684.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.32318463091767247,
+        "speed_mismatch": 0.014131508758474895,
+        "final_peak": 9,
+        "mass_drift": 2.942091015256665e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.18,
+    "d22": 0.1,
+    "seed": 19,
+    "branches": [
+      {
+        "seed": 19,
+        "m": 11,
+        "entered_at": 2144.0,
+        "captured_at": 2192.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.32324281242018005,
+        "speed_mismatch": 0.012820147678704152,
+        "final_peak": 11,
+        "mass_drift": 1.7312540290248535e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.18,
+    "d22": 0.1,
+    "seed": 20,
+    "branches": [
+      {
+        "seed": 20,
+        "m": 11,
+        "entered_at": 712.0,
+        "captured_at": 760.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.1858751248688022,
+        "speed_mismatch": 0.01244714336590888,
+        "final_peak": 11,
+        "mass_drift": 2.0990154059319366e-16
+      }
+    ]
+  },
+  {
+    "d12": 0.18,
+    "d22": 0.1,
+    "seed": 21,
+    "branches": [
+      {
+        "seed": 21,
+        "m": 11,
+        "entered_at": 1834.0,
+        "captured_at": 1882.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.2713199938592874,
+        "speed_mismatch": 0.014188175567103417,
+        "final_peak": 11,
+        "mass_drift": 1.0547118733938987e-15
+      },
+      {
+        "seed": 21,
+        "m": 10,
+        "entered_at": 2166.0,
+        "captured_at": 2214.0,
+        "changed": true,
+        "change": [
+          72.0,
+          9
+        ],
+        "maximum_compression": 0.5017198829967953,
+        "speed_mismatch": 0.028573469288545157,
+        "final_peak": 7,
+        "mass_drift": 8.257283745649602e-16
+      },
+      {
+        "seed": 21,
+        "m": 9,
+        "entered_at": 2264.0,
+        "captured_at": 2312.0,
+        "changed": true,
+        "change": [
+          206.0,
+          8
+        ],
+        "maximum_compression": 0.4210235756187092,
+        "speed_mismatch": 0.02463618443272296,
+        "final_peak": 5,
+        "mass_drift": 2.983724378680108e-16
+      }
+    ]
+  },
+  {
+    "d12": 0.18,
+    "d22": 0.1,
+    "seed": 22,
+    "branches": [
+      {
+        "seed": 22,
+        "m": 11,
+        "entered_at": 2060.0,
+        "captured_at": 2108.0,
+        "changed": true,
+        "change": [
+          90.0,
+          10
+        ],
+        "maximum_compression": 0.40293145062534386,
+        "speed_mismatch": 0.012358191424938797,
+        "final_peak": 12,
+        "mass_drift": 3.608224830031759e-16
+      },
+      {
+        "seed": 22,
+        "m": 10,
+        "entered_at": 2164.0,
+        "captured_at": 2212.0,
+        "changed": true,
+        "change": [
+          276.0,
+          9
+        ],
+        "maximum_compression": 0.3374371754078094,
+        "speed_mismatch": 0.023817613527429598,
+        "final_peak": 8,
+        "mass_drift": 7.7021722333370235e-16
+      }
+    ]
+  },
+  {
+    "d12": 0.18,
+    "d22": 0.1,
+    "seed": 23,
+    "branches": [
+      {
+        "seed": 23,
+        "m": 11,
+        "entered_at": 1026.0,
+        "captured_at": 1074.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.21201768082002592,
+        "speed_mismatch": 0.01385694583686993,
+        "final_peak": 11,
+        "mass_drift": 1.478851763270228e-15
+      },
+      {
+        "seed": 23,
+        "m": 10,
+        "entered_at": 1634.0,
+        "captured_at": 1682.0,
+        "changed": true,
+        "change": [
+          122.0,
+          9
+        ],
+        "maximum_compression": 0.4366837322747855,
+        "speed_mismatch": 0.01957548997015215,
+        "final_peak": 6,
+        "mass_drift": 3.122502256758253e-16
+      },
+      {
+        "seed": 23,
+        "m": 9,
+        "entered_at": 1776.0,
+        "captured_at": 1824.0,
+        "changed": true,
+        "change": [
+          596.0,
+          7
+        ],
+        "maximum_compression": 0.41529354155183484,
+        "speed_mismatch": 0.01974480015322872,
+        "final_peak": 6,
+        "mass_drift": 5.347285114698508e-16
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 0,
+    "branches": [
+      {
+        "seed": 0,
+        "m": 11,
+        "entered_at": 1816.0,
+        "captured_at": 1864.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.33677566200836784,
+        "speed_mismatch": 0.004483816061955415,
+        "final_peak": 11,
+        "mass_drift": 4.0332320816460765e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 1,
+    "branches": [
+      {
+        "seed": 1,
+        "m": 11,
+        "entered_at": 2032.0,
+        "captured_at": 2080.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.2898258550122331,
+        "speed_mismatch": 0.018277737653045308,
+        "final_peak": 11,
+        "mass_drift": 1.3270634591222574e-15
+      },
+      {
+        "seed": 1,
+        "m": 10,
+        "entered_at": 2222.0,
+        "captured_at": 2270.0,
+        "changed": true,
+        "change": [
+          284.0,
+          9
+        ],
+        "maximum_compression": 0.3201817916813682,
+        "speed_mismatch": 0.01680138645064449,
+        "final_peak": 11,
+        "mass_drift": 7.962380754733545e-16
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 2,
+    "branches": []
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 3,
+    "branches": []
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 4,
+    "branches": [
+      {
+        "seed": 4,
+        "m": 11,
+        "entered_at": 1808.0,
+        "captured_at": 1856.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.2328574126985281,
+        "speed_mismatch": 0.010855826132117878,
+        "final_peak": 11,
+        "mass_drift": 3.866698627952303e-15
+      },
+      {
+        "seed": 4,
+        "m": 10,
+        "entered_at": 2336.0,
+        "captured_at": 2384.0,
+        "changed": true,
+        "change": [
+          140.0,
+          9
+        ],
+        "maximum_compression": 0.33574274517061864,
+        "speed_mismatch": 0.01639230836003093,
+        "final_peak": 10,
+        "mass_drift": 2.706168622523819e-16
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 5,
+    "branches": [
+      {
+        "seed": 5,
+        "m": 10,
+        "entered_at": 1764.0,
+        "captured_at": 1812.0,
+        "changed": true,
+        "change": [
+          280.0,
+          9
+        ],
+        "maximum_compression": 0.2573079432440941,
+        "speed_mismatch": 0.014209081922013415,
+        "final_peak": 7,
+        "mass_drift": 7.095019016745141e-16
+      },
+      {
+        "seed": 5,
+        "m": 9,
+        "entered_at": 2266.0,
+        "captured_at": 2314.0,
+        "changed": true,
+        "change": [
+          88.0,
+          8
+        ],
+        "maximum_compression": 0.39262031385099194,
+        "speed_mismatch": 0.01928701637793287,
+        "final_peak": 6,
+        "mass_drift": 3.625572064791527e-16
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 6,
+    "branches": [
+      {
+        "seed": 6,
+        "m": 11,
+        "entered_at": 1884.0,
+        "captured_at": 1932.0,
+        "changed": true,
+        "change": [
+          1318.0,
+          10
+        ],
+        "maximum_compression": 0.27263916224763385,
+        "speed_mismatch": 0.012619689057748545,
+        "final_peak": 11,
+        "mass_drift": 7.112366251504909e-16
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 7,
+    "branches": [
+      {
+        "seed": 7,
+        "m": 9,
+        "entered_at": 2176.0,
+        "captured_at": 2224.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.26177829313257994,
+        "speed_mismatch": 0.029637512026987688,
+        "final_peak": 9,
+        "mass_drift": 4.029762634694123e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 8,
+    "branches": [
+      {
+        "seed": 8,
+        "m": 11,
+        "entered_at": 1104.0,
+        "captured_at": 1152.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.21241498602186337,
+        "speed_mismatch": 0.0069229176407510085,
+        "final_peak": 11,
+        "mass_drift": 2.3583565655904692e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 9,
+    "branches": []
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 10,
+    "branches": [
+      {
+        "seed": 10,
+        "m": 11,
+        "entered_at": 1010.0,
+        "captured_at": 1058.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.21797974855451652,
+        "speed_mismatch": 0.011682794745570622,
+        "final_peak": 11,
+        "mass_drift": 1.0824674490095276e-15
+      },
+      {
+        "seed": 10,
+        "m": 10,
+        "entered_at": 2012.0,
+        "captured_at": 2060.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.2868602814527279,
+        "speed_mismatch": 0.012646110087380945,
+        "final_peak": 10,
+        "mass_drift": 5.026361271642799e-16
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 11,
+    "branches": [
+      {
+        "seed": 11,
+        "m": 10,
+        "entered_at": 2090.0,
+        "captured_at": 2138.0,
+        "changed": true,
+        "change": [
+          404.0,
+          9
+        ],
+        "maximum_compression": 0.20191663022453665,
+        "speed_mismatch": 0.02551694074166682,
+        "final_peak": 11,
+        "mass_drift": 1.734723475976807e-16
+      },
+      {
+        "seed": 11,
+        "m": 9,
+        "entered_at": 2326.0,
+        "captured_at": 2374.0,
+        "changed": true,
+        "change": [
+          122.0,
+          8
+        ],
+        "maximum_compression": 0.33018186981900977,
+        "speed_mismatch": 0.03400436972953755,
+        "final_peak": 5,
+        "mass_drift": 6.800116025829084e-16
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 12,
+    "branches": [
+      {
+        "seed": 12,
+        "m": 11,
+        "entered_at": 1874.0,
+        "captured_at": 1922.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.26967484463559843,
+        "speed_mismatch": 0.006968241790167223,
+        "final_peak": 11,
+        "mass_drift": 1.2247147740396258e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 13,
+    "branches": [
+      {
+        "seed": 13,
+        "m": 11,
+        "entered_at": 1910.0,
+        "captured_at": 1958.0,
+        "changed": true,
+        "change": [
+          336.0,
+          10
+        ],
+        "maximum_compression": 0.2976062246080987,
+        "speed_mismatch": 0.015690516612303335,
+        "final_peak": 11,
+        "mass_drift": 5.984795992119984e-16
+      },
+      {
+        "seed": 13,
+        "m": 10,
+        "entered_at": 2182.0,
+        "captured_at": 2230.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.3184329549884971,
+        "speed_mismatch": 0.016884125732300498,
+        "final_peak": 10,
+        "mass_drift": 1.5621184901171148e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 14,
+    "branches": []
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 15,
+    "branches": [
+      {
+        "seed": 15,
+        "m": 11,
+        "entered_at": 1452.0,
+        "captured_at": 1500.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.20277882327819263,
+        "speed_mismatch": 0.015414505879348901,
+        "final_peak": 11,
+        "mass_drift": 1.141448047192739e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 16,
+    "branches": []
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 17,
+    "branches": []
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 18,
+    "branches": []
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 19,
+    "branches": []
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 20,
+    "branches": [
+      {
+        "seed": 20,
+        "m": 11,
+        "entered_at": 1552.0,
+        "captured_at": 1600.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.28399722374994096,
+        "speed_mismatch": 0.005133066745346332,
+        "final_peak": 11,
+        "mass_drift": 2.8197930102003e-15
+      },
+      {
+        "seed": 20,
+        "m": 10,
+        "entered_at": 1864.0,
+        "captured_at": 1912.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.31048891628695474,
+        "speed_mismatch": 0.007506375982725515,
+        "final_peak": 10,
+        "mass_drift": 4.0245584642661925e-15
+      },
+      {
+        "seed": 20,
+        "m": 9,
+        "entered_at": 2370.0,
+        "captured_at": 2418.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.2756548827701064,
+        "speed_mismatch": 0.02111200658876196,
+        "final_peak": 9,
+        "mass_drift": 1.0061396160665481e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 21,
+    "branches": []
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 22,
+    "branches": [
+      {
+        "seed": 22,
+        "m": 11,
+        "entered_at": 1244.0,
+        "captured_at": 1292.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.1999488681102094,
+        "speed_mismatch": 0.01562157617193817,
+        "final_peak": 11,
+        "mass_drift": 1.8006429680639258e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 23,
+    "branches": []
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 24,
+    "branches": []
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 25,
+    "branches": []
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 26,
+    "branches": [
+      {
+        "seed": 26,
+        "m": 11,
+        "entered_at": 2424.0,
+        "captured_at": 2472.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.2514345748818676,
+        "c_star": 0.058114132299017816,
+        "reference_speed": 0.06988583288876253,
+        "speed_mismatch": 0.011771700589744714,
+        "final_peak": 11,
+        "mass_drift": 1.313185671314443e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 27,
+    "branches": []
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 28,
+    "branches": []
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 29,
+    "branches": []
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 30,
+    "branches": [
+      {
+        "seed": 30,
+        "m": 11,
+        "entered_at": 1610.0,
+        "captured_at": 1658.0,
+        "changed": true,
+        "change": [
+          138.0,
+          10
+        ],
+        "maximum_compression": 0.22566905213019672,
+        "c_star": 0.05590210642050679,
+        "reference_speed": 0.06988583288876253,
+        "speed_mismatch": 0.013983726468255742,
+        "final_peak": 9,
+        "mass_drift": 1.1796119636642288e-16
+      },
+      {
+        "seed": 30,
+        "m": 10,
+        "entered_at": 1810.0,
+        "captured_at": 1858.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.36094327889366506,
+        "c_star": 0.05489083108023584,
+        "reference_speed": 0.06403436950749765,
+        "speed_mismatch": 0.009143538427261809,
+        "final_peak": 10,
+        "mass_drift": 1.2125717097077882e-15
+      },
+      {
+        "seed": 30,
+        "m": 9,
+        "entered_at": 2028.0,
+        "captured_at": 2076.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.4787839250791205,
+        "c_star": 0.03946996110094973,
+        "reference_speed": 0.0581822099499832,
+        "speed_mismatch": 0.01871224884903347,
+        "final_peak": 9,
+        "mass_drift": 2.2681509448396753e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 31,
+    "branches": [
+      {
+        "seed": 31,
+        "m": 11,
+        "entered_at": 2010.0,
+        "captured_at": 2058.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.2317927578300516,
+        "c_star": 0.05617719899833461,
+        "reference_speed": 0.06988583288876253,
+        "speed_mismatch": 0.013708633890427924,
+        "final_peak": 11,
+        "mass_drift": 1.1934897514720433e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 32,
+    "branches": [
+      {
+        "seed": 32,
+        "m": 11,
+        "entered_at": 2070.0,
+        "captured_at": 2118.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.2596622474898228,
+        "c_star": 0.05727680229848872,
+        "reference_speed": 0.06988583288876253,
+        "speed_mismatch": 0.01260903059027381,
+        "final_peak": 11,
+        "mass_drift": 3.019719890806627e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 33,
+    "branches": [
+      {
+        "seed": 33,
+        "m": 11,
+        "entered_at": 970.0,
+        "captured_at": 1018.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.16469634922164822,
+        "c_star": 0.051775254131640656,
+        "reference_speed": 0.06988583288876253,
+        "speed_mismatch": 0.018110578757121874,
+        "final_peak": 11,
+        "mass_drift": 1.1535911115245767e-15
+      },
+      {
+        "seed": 33,
+        "m": 10,
+        "entered_at": 1128.0,
+        "captured_at": 1176.0,
+        "changed": true,
+        "change": [
+          98.0,
+          9
+        ],
+        "maximum_compression": 0.31702477436528764,
+        "c_star": 0.03696593715983136,
+        "reference_speed": 0.06403436950749765,
+        "speed_mismatch": 0.027068432347666288,
+        "final_peak": 12,
+        "mass_drift": 4.163336342344337e-16
+      },
+      {
+        "seed": 33,
+        "m": 9,
+        "entered_at": 1274.0,
+        "captured_at": 1322.0,
+        "changed": true,
+        "change": [
+          46.0,
+          8
+        ],
+        "maximum_compression": 0.33273123348900624,
+        "c_star": 0.025860968366295027,
+        "reference_speed": 0.0581822099499832,
+        "speed_mismatch": 0.032321241583688175,
+        "final_peak": 8,
+        "mass_drift": 2.740863092043355e-16
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 34,
+    "branches": [
+      {
+        "seed": 34,
+        "m": 11,
+        "entered_at": 856.0,
+        "captured_at": 904.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.2876825364682096,
+        "c_star": 0.060342309071562135,
+        "reference_speed": 0.06988583288876253,
+        "speed_mismatch": 0.009543523817200396,
+        "final_peak": 11,
+        "mass_drift": 1.8596235662471372e-15
+      },
+      {
+        "seed": 34,
+        "m": 10,
+        "entered_at": 1210.0,
+        "captured_at": 1258.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.28736749365914915,
+        "c_star": 0.05595643564280637,
+        "reference_speed": 0.06403436950749765,
+        "speed_mismatch": 0.00807793386469128,
+        "final_peak": 10,
+        "mass_drift": 2.445960101127298e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 35,
+    "branches": [
+      {
+        "seed": 35,
+        "m": 11,
+        "entered_at": 1342.0,
+        "captured_at": 1390.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.29905073039222996,
+        "c_star": 0.06352955580321526,
+        "reference_speed": 0.06988583288876253,
+        "speed_mismatch": 0.006356277085547271,
+        "final_peak": 11,
+        "mass_drift": 1.6740081543176188e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 36,
+    "branches": []
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 37,
+    "branches": []
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 38,
+    "branches": [
+      {
+        "seed": 38,
+        "m": 11,
+        "entered_at": 1648.0,
+        "captured_at": 1696.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.3819699798319339,
+        "c_star": 0.05206583704347321,
+        "reference_speed": 0.06988583288876253,
+        "speed_mismatch": 0.017819995845289323,
+        "final_peak": 11,
+        "mass_drift": 6.175615574477433e-16
+      },
+      {
+        "seed": 38,
+        "m": 10,
+        "entered_at": 2026.0,
+        "captured_at": 2074.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.21516467783585969,
+        "c_star": 0.05354789657241893,
+        "reference_speed": 0.06403436950749765,
+        "speed_mismatch": 0.01048647293507872,
+        "final_peak": 10,
+        "mass_drift": 1.7095699855751434e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 39,
+    "branches": [
+      {
+        "seed": 39,
+        "m": 11,
+        "entered_at": 1482.0,
+        "captured_at": 1530.0,
+        "changed": true,
+        "change": [
+          142.0,
+          10
+        ],
+        "maximum_compression": 0.24741462681628146,
+        "c_star": 0.05309237736024758,
+        "reference_speed": 0.06988583288876253,
+        "speed_mismatch": 0.016793455528514953,
+        "final_peak": 12,
+        "mass_drift": 3.2612801348363973e-16
+      },
+      {
+        "seed": 39,
+        "m": 10,
+        "entered_at": 1686.0,
+        "captured_at": 1734.0,
+        "changed": true,
+        "change": [
+          140.0,
+          9
+        ],
+        "maximum_compression": 0.32417424740867995,
+        "c_star": 0.03784163017620772,
+        "reference_speed": 0.06403436950749765,
+        "speed_mismatch": 0.026192739331289926,
+        "final_peak": 8,
+        "mass_drift": 8.014422459012849e-16
+      },
+      {
+        "seed": 39,
+        "m": 9,
+        "entered_at": 1910.0,
+        "captured_at": 1958.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.4256962389968828,
+        "c_star": 0.032139791859284096,
+        "reference_speed": 0.0581822099499832,
+        "speed_mismatch": 0.026042418090699106,
+        "final_peak": 9,
+        "mass_drift": 1.904726376622534e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 40,
+    "branches": [
+      {
+        "seed": 40,
+        "m": 11,
+        "entered_at": 1440.0,
+        "captured_at": 1488.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.3581567190108844,
+        "c_star": 0.05362543137308473,
+        "reference_speed": 0.06988583288876253,
+        "speed_mismatch": 0.0162604015156778,
+        "final_peak": 11,
+        "mass_drift": 1.932481952238163e-15
+      },
+      {
+        "seed": 40,
+        "m": 10,
+        "entered_at": 1936.0,
+        "captured_at": 1984.0,
+        "changed": true,
+        "change": [
+          462.0,
+          9
+        ],
+        "maximum_compression": 0.3244168929020731,
+        "c_star": 0.04509956038684408,
+        "reference_speed": 0.06403436950749765,
+        "speed_mismatch": 0.018934809120653567,
+        "final_peak": 6,
+        "mass_drift": 3.5041414214731503e-16
+      },
+      {
+        "seed": 40,
+        "m": 9,
+        "entered_at": 2128.0,
+        "captured_at": 2176.0,
+        "changed": true,
+        "change": [
+          228.0,
+          8
+        ],
+        "maximum_compression": 0.29469646537891026,
+        "c_star": 0.03661476083963964,
+        "reference_speed": 0.0581822099499832,
+        "speed_mismatch": 0.021567449110343563,
+        "final_peak": 6,
+        "mass_drift": 5.2562121322097255e-16
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 41,
+    "branches": [
+      {
+        "seed": 41,
+        "m": 11,
+        "entered_at": 1024.0,
+        "captured_at": 1072.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.22754288160486114,
+        "c_star": 0.06213409374316221,
+        "reference_speed": 0.06988583288876253,
+        "speed_mismatch": 0.007751739145600324,
+        "final_peak": 11,
+        "mass_drift": 6.366435156834882e-16
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 42,
+    "branches": [
+      {
+        "seed": 42,
+        "m": 11,
+        "entered_at": 1806.0,
+        "captured_at": 1854.0,
+        "changed": true,
+        "change": [
+          802.0,
+          10
+        ],
+        "maximum_compression": 0.3034601951249485,
+        "c_star": 0.05487598985924086,
+        "reference_speed": 0.06988583288876253,
+        "speed_mismatch": 0.015009843029521672,
+        "final_peak": 9,
+        "mass_drift": 3.5388358909926865e-16
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 43,
+    "branches": [
+      {
+        "seed": 43,
+        "m": 11,
+        "entered_at": 1650.0,
+        "captured_at": 1698.0,
+        "changed": true,
+        "change": [
+          642.0,
+          10
+        ],
+        "maximum_compression": 0.19356129932490596,
+        "c_star": 0.051802383494679284,
+        "reference_speed": 0.06988583288876253,
+        "speed_mismatch": 0.018083449394083247,
+        "final_peak": 11,
+        "mass_drift": 1.9255430583342559e-16
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 44,
+    "branches": []
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 45,
+    "branches": [
+      {
+        "seed": 45,
+        "m": 11,
+        "entered_at": 1704.0,
+        "captured_at": 1752.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.17012483895270203,
+        "c_star": 0.06474939202103344,
+        "reference_speed": 0.06988583288876253,
+        "speed_mismatch": 0.005136440867729089,
+        "final_peak": 11,
+        "mass_drift": 1.3183898417423734e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 46,
+    "branches": []
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 47,
+    "branches": [
+      {
+        "seed": 47,
+        "m": 11,
+        "entered_at": 1298.0,
+        "captured_at": 1346.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.33126617393263036,
+        "c_star": 0.05535467818405481,
+        "reference_speed": 0.06988583288876253,
+        "speed_mismatch": 0.01453115470470772,
+        "final_peak": 11,
+        "mass_drift": 4.579669976578771e-16
+      },
+      {
+        "seed": 47,
+        "m": 10,
+        "entered_at": 1586.0,
+        "captured_at": 1634.0,
+        "changed": true,
+        "change": [
+          744.0,
+          9
+        ],
+        "maximum_compression": 0.2909745237482829,
+        "c_star": 0.043987594051421594,
+        "reference_speed": 0.06403436950749765,
+        "speed_mismatch": 0.020046775456076055,
+        "final_peak": 9,
+        "mass_drift": 6.938893903907228e-16
+      },
+      {
+        "seed": 47,
+        "m": 9,
+        "entered_at": 2394.0,
+        "captured_at": 2442.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.28277104053830515,
+        "c_star": 0.0485578442667646,
+        "reference_speed": 0.0581822099499832,
+        "speed_mismatch": 0.009624365683218603,
+        "final_peak": 9,
+        "mass_drift": 2.0747292772682613e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 48,
+    "branches": [
+      {
+        "seed": 48,
+        "m": 11,
+        "entered_at": 2018.0,
+        "captured_at": 2066.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.25668161637848275,
+        "c_star": 0.051210720525644404,
+        "reference_speed": 0.06988583288876253,
+        "speed_mismatch": 0.018675112363118127,
+        "final_peak": 11,
+        "mass_drift": 2.949029909160572e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 49,
+    "branches": []
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 50,
+    "branches": [
+      {
+        "seed": 50,
+        "m": 11,
+        "entered_at": 1768.0,
+        "captured_at": 1816.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.3059945497727824,
+        "c_star": 0.05872157636935412,
+        "reference_speed": 0.06988583288876253,
+        "speed_mismatch": 0.01116425651940841,
+        "final_peak": 11,
+        "mass_drift": 3.724451302922205e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 51,
+    "branches": [
+      {
+        "seed": 51,
+        "m": 11,
+        "entered_at": 1674.0,
+        "captured_at": 1722.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.2342924596277347,
+        "c_star": 0.05802781099905206,
+        "reference_speed": 0.06988583288876253,
+        "speed_mismatch": 0.011858021889710468,
+        "final_peak": 11,
+        "mass_drift": 1.9767174008755717e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 52,
+    "branches": [
+      {
+        "seed": 52,
+        "m": 11,
+        "entered_at": 2030.0,
+        "captured_at": 2078.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.21067676099714028,
+        "c_star": 0.05712124612825776,
+        "reference_speed": 0.06988583288876253,
+        "speed_mismatch": 0.012764586760504772,
+        "final_peak": 11,
+        "mass_drift": 3.241330814862664e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 53,
+    "branches": [
+      {
+        "seed": 53,
+        "m": 11,
+        "entered_at": 1284.0,
+        "captured_at": 1332.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.3529990370060869,
+        "c_star": 0.05615015864216788,
+        "reference_speed": 0.06988583288876253,
+        "speed_mismatch": 0.01373567424659465,
+        "final_peak": 11,
+        "mass_drift": 1.5976803213746393e-15
+      },
+      {
+        "seed": 53,
+        "m": 9,
+        "entered_at": 1880.0,
+        "captured_at": 1928.0,
+        "changed": true,
+        "change": [
+          638.0,
+          8
+        ],
+        "maximum_compression": 0.3554759353751973,
+        "c_star": 0.04059254951269369,
+        "reference_speed": 0.0581822099499832,
+        "speed_mismatch": 0.01758966043728951,
+        "final_peak": 8,
+        "mass_drift": 1.1934897514720433e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 54,
+    "branches": [
+      {
+        "seed": 54,
+        "m": 11,
+        "entered_at": 1624.0,
+        "captured_at": 1672.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.25313857715127774,
+        "c_star": 0.05445379758098811,
+        "reference_speed": 0.06988583288876253,
+        "speed_mismatch": 0.01543203530777442,
+        "final_peak": 11,
+        "mass_drift": 2.2239154962022667e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 55,
+    "branches": [
+      {
+        "seed": 55,
+        "m": 11,
+        "entered_at": 1086.0,
+        "captured_at": 1134.0,
+        "changed": true,
+        "change": [
+          266.0,
+          10
+        ],
+        "maximum_compression": 0.2658564810376971,
+        "c_star": 0.04285582733847854,
+        "reference_speed": 0.06988583288876253,
+        "speed_mismatch": 0.027030005550283988,
+        "final_peak": 11,
+        "mass_drift": 4.718447854656915e-16
+      },
+      {
+        "seed": 55,
+        "m": 10,
+        "entered_at": 1192.0,
+        "captured_at": 1240.0,
+        "changed": true,
+        "change": [
+          148.0,
+          9
+        ],
+        "maximum_compression": 0.37321013759701904,
+        "c_star": 0.03729225351609854,
+        "reference_speed": 0.06403436950749765,
+        "speed_mismatch": 0.026742115991399106,
+        "final_peak": 8,
+        "mass_drift": 7.28583859910259e-16
+      },
+      {
+        "seed": 55,
+        "m": 9,
+        "entered_at": 1480.0,
+        "captured_at": 1528.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.49528774915785645,
+        "c_star": 0.03795131036073657,
+        "reference_speed": 0.0581822099499832,
+        "speed_mismatch": 0.020230899589246634,
+        "final_peak": 9,
+        "mass_drift": 2.0088097851811426e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 56,
+    "branches": [
+      {
+        "seed": 56,
+        "m": 11,
+        "entered_at": 1474.0,
+        "captured_at": 1522.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.2973041414602895,
+        "c_star": 0.05338154023862177,
+        "reference_speed": 0.06988583288876253,
+        "speed_mismatch": 0.016504292650140757,
+        "final_peak": 11,
+        "mass_drift": 9.254749744336266e-16
+      },
+      {
+        "seed": 56,
+        "m": 10,
+        "entered_at": 2022.0,
+        "captured_at": 2070.0,
+        "changed": true,
+        "change": [
+          146.0,
+          9
+        ],
+        "maximum_compression": 0.3823742037402198,
+        "c_star": 0.04827780865110232,
+        "reference_speed": 0.06403436950749765,
+        "speed_mismatch": 0.015756560856395325,
+        "final_peak": 10,
+        "mass_drift": 2.0122792321330962e-16
+      },
+      {
+        "seed": 56,
+        "m": 9,
+        "entered_at": 2216.0,
+        "captured_at": 2264.0,
+        "changed": true,
+        "change": [
+          262.0,
+          8
+        ],
+        "maximum_compression": 0.2587028404277345,
+        "c_star": 0.03900748394433424,
+        "reference_speed": 0.0581822099499832,
+        "speed_mismatch": 0.019174726005648964,
+        "final_peak": 10,
+        "mass_drift": 5.230191280070073e-16
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 57,
+    "branches": [
+      {
+        "seed": 57,
+        "m": 11,
+        "entered_at": 2274.0,
+        "captured_at": 2322.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.38547357850260433,
+        "c_star": 0.05244785197012542,
+        "reference_speed": 0.06988583288876253,
+        "speed_mismatch": 0.01743798091863711,
+        "final_peak": 11,
+        "mass_drift": 2.5413698923060224e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 58,
+    "branches": [
+      {
+        "seed": 58,
+        "m": 11,
+        "entered_at": 2044.0,
+        "captured_at": 2092.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.2566588323862339,
+        "c_star": 0.05444278512974937,
+        "reference_speed": 0.06988583288876253,
+        "speed_mismatch": 0.01544304775901316,
+        "final_peak": 11,
+        "mass_drift": 6.071532165918825e-16
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 59,
+    "branches": []
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 60,
+    "branches": [
+      {
+        "seed": 60,
+        "m": 11,
+        "entered_at": 1858.0,
+        "captured_at": 1906.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.3828754902277661,
+        "c_star": 0.053913322124767724,
+        "reference_speed": 0.06988583288876253,
+        "speed_mismatch": 0.015972510763994807,
+        "final_peak": 11,
+        "mass_drift": 1.7139067942650854e-15
+      },
+      {
+        "seed": 60,
+        "m": 10,
+        "entered_at": 2368.0,
+        "captured_at": 2416.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.31549680972725425,
+        "c_star": 0.05819475698954328,
+        "reference_speed": 0.06403436950749765,
+        "speed_mismatch": 0.005839612517954368,
+        "final_peak": 10,
+        "mass_drift": 1.0954778750793537e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 61,
+    "branches": []
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 62,
+    "branches": [
+      {
+        "seed": 62,
+        "m": 11,
+        "entered_at": 1954.0,
+        "captured_at": 2002.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.3832457613645621,
+        "c_star": 0.055906566538910865,
+        "reference_speed": 0.06988583288876253,
+        "speed_mismatch": 0.013979266349851666,
+        "final_peak": 11,
+        "mass_drift": 3.3584246494910985e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 63,
+    "branches": [
+      {
+        "seed": 63,
+        "m": 11,
+        "entered_at": 2182.0,
+        "captured_at": 2230.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.16710499715339988,
+        "c_star": 0.04841486007046735,
+        "reference_speed": 0.06988583288876253,
+        "speed_mismatch": 0.02147097281829518,
+        "final_peak": 11,
+        "mass_drift": 6.92154666914746e-16
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 64,
+    "branches": [
+      {
+        "seed": 64,
+        "m": 11,
+        "entered_at": 2210.0,
+        "captured_at": 2258.0,
+        "changed": true,
+        "change": [
+          60.0,
+          10
+        ],
+        "maximum_compression": 0.4352228769710337,
+        "c_star": 0.05323973365829281,
+        "reference_speed": 0.06988583288876253,
+        "speed_mismatch": 0.016646099230469724,
+        "final_peak": 11,
+        "mass_drift": 1.5612511283791264e-16
+      },
+      {
+        "seed": 64,
+        "m": 10,
+        "entered_at": 2314.0,
+        "captured_at": 2362.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.21416553566117913,
+        "c_star": 0.04085021801251396,
+        "reference_speed": 0.06403436950749765,
+        "speed_mismatch": 0.023184151494983686,
+        "final_peak": 10,
+        "mass_drift": 3.573530360512223e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 65,
+    "branches": []
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 66,
+    "branches": [
+      {
+        "seed": 66,
+        "m": 11,
+        "entered_at": 2256.0,
+        "captured_at": 2304.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.2561498941238821,
+        "c_star": 0.06350069931319512,
+        "reference_speed": 0.06988583288876253,
+        "speed_mismatch": 0.006385133575567414,
+        "final_peak": 11,
+        "mass_drift": 1.474514954580286e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 67,
+    "branches": []
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 68,
+    "branches": []
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 69,
+    "branches": [
+      {
+        "seed": 69,
+        "m": 11,
+        "entered_at": 1144.0,
+        "captured_at": 1192.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.2539637694339357,
+        "c_star": 0.058076855008346195,
+        "reference_speed": 0.06988583288876253,
+        "speed_mismatch": 0.011808977880416335,
+        "final_peak": 11,
+        "mass_drift": 2.316723202167026e-15
+      },
+      {
+        "seed": 69,
+        "m": 10,
+        "entered_at": 1318.0,
+        "captured_at": 1366.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.30802434847843974,
+        "c_star": 0.05138975756754186,
+        "reference_speed": 0.06403436950749765,
+        "speed_mismatch": 0.012644611939955787,
+        "final_peak": 10,
+        "mass_drift": 1.1744077932362984e-15
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 70,
+    "branches": [
+      {
+        "seed": 70,
+        "m": 11,
+        "entered_at": 1790.0,
+        "captured_at": 1838.0,
+        "changed": false,
+        "change": null,
+        "maximum_compression": 0.28830858214942034,
+        "c_star": 0.05765637751974288,
+        "reference_speed": 0.06988583288876253,
+        "speed_mismatch": 0.012229455369019648,
+        "final_peak": 11,
+        "mass_drift": 5.447031714567174e-16
+      }
+    ]
+  },
+  {
+    "d12": 0.22,
+    "d22": 0.1,
+    "seed": 71,
+    "branches": []
+  }
+]

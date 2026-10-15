@@ -1,0 +1,4412 @@
+{
+  "rows": [
+    {
+      "setting": "N384_dt0025",
+      "N": 384,
+      "dt": 0.025,
+      "seed": 0,
+      "transitions": [
+        [
+          12,
+          10
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "branches": [
+        {
+          "m": 10,
+          "entered_at": 1640.0,
+          "captured_at": 1688.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.2065772499180017
+        },
+        {
+          "m": 9,
+          "entered_at": 1906.0,
+          "captured_at": 1954.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.2131476122016536
+        }
+      ],
+      "mass_drift": 3.595105983744685e-15
+    },
+    {
+      "setting": "N384_dt0025",
+      "N": 384,
+      "dt": 0.025,
+      "seed": 1,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 2294.0,
+          "captured_at": 2342.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.14134548304143718
+        }
+      ],
+      "mass_drift": 3.6386909110786014e-15
+    },
+    {
+      "setting": "N384_dt0025",
+      "N": 384,
+      "dt": 0.025,
+      "seed": 2,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 884.0,
+          "captured_at": 932.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.2922027165462843
+        },
+        {
+          "m": 10,
+          "entered_at": 1332.0,
+          "captured_at": 1380.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.15214901757745966
+        }
+      ],
+      "mass_drift": 3.829871894160212e-15
+    },
+    {
+      "setting": "N384_dt0025",
+      "N": 384,
+      "dt": 0.025,
+      "seed": 3,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 436.0,
+          "captured_at": 484.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.09832027221517632
+        },
+        {
+          "m": 10,
+          "entered_at": 1690.0,
+          "captured_at": 1738.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.31423489007861805
+        },
+        {
+          "m": 9,
+          "entered_at": 1798.0,
+          "captured_at": 1846.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.5860032525515962
+        }
+      ],
+      "mass_drift": 3.109383410471179e-15
+    },
+    {
+      "setting": "N384_dt0025",
+      "N": 384,
+      "dt": 0.025,
+      "seed": 4,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1344.0,
+          "captured_at": 1392.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.23739007481788574
+        },
+        {
+          "m": 10,
+          "entered_at": 2256.0,
+          "captured_at": 2304.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.34660347027747684
+        },
+        {
+          "m": 9,
+          "entered_at": 2432.0,
+          "captured_at": 2480.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.2800942197350897
+        }
+      ],
+      "mass_drift": 5.501783924277692e-15
+    },
+    {
+      "setting": "N384_dt0025",
+      "N": 384,
+      "dt": 0.025,
+      "seed": 5,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1414.0,
+          "captured_at": 1462.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.09215854008807928
+        }
+      ],
+      "mass_drift": 8.110916452364059e-16
+    },
+    {
+      "setting": "N384_dt0025",
+      "N": 384,
+      "dt": 0.025,
+      "seed": 6,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1806.0,
+          "captured_at": 1854.0,
+          "changed": true,
+          "change": [
+            134.0,
+            10
+          ],
+          "chi": 0.1553654494978568
+        }
+      ],
+      "mass_drift": 1.805847138491856e-15
+    },
+    {
+      "setting": "N384_dt0025",
+      "N": 384,
+      "dt": 0.025,
+      "seed": 7,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 2128.0,
+          "captured_at": 2176.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.14985131986049796
+        }
+      ],
+      "mass_drift": 6.408646761416984e-15
+    },
+    {
+      "setting": "N384_dt0025",
+      "N": 384,
+      "dt": 0.025,
+      "seed": 8,
+      "transitions": [
+        [
+          12,
+          10
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "branches": [
+        {
+          "m": 10,
+          "entered_at": 1306.0,
+          "captured_at": 1354.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.2181444840412778
+        },
+        {
+          "m": 9,
+          "entered_at": 1570.0,
+          "captured_at": 1618.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.39655600168959354
+        }
+      ],
+      "mass_drift": 6.7106693465990305e-15
+    },
+    {
+      "setting": "N384_dt0025",
+      "N": 384,
+      "dt": 0.025,
+      "seed": 9,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ],
+        [
+          9,
+          8
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1134.0,
+          "captured_at": 1182.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.26924388042430497
+        },
+        {
+          "m": 10,
+          "entered_at": 1406.0,
+          "captured_at": 1454.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.17920462777672533
+        },
+        {
+          "m": 9,
+          "entered_at": 1562.0,
+          "captured_at": 1610.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.25800420243013955
+        }
+      ],
+      "mass_drift": 4.771067800094878e-15
+    },
+    {
+      "setting": "N384_dt0025",
+      "N": 384,
+      "dt": 0.025,
+      "seed": 10,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 2022.0,
+          "captured_at": 2070.0,
+          "changed": true,
+          "change": [
+            20.0,
+            10
+          ],
+          "chi": 0.1863576222757451
+        },
+        {
+          "m": 10,
+          "entered_at": 2106.0,
+          "captured_at": 2154.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.115127332652237
+        }
+      ],
+      "mass_drift": 3.3058047040531355e-15
+    },
+    {
+      "setting": "N384_dt0025",
+      "N": 384,
+      "dt": 0.025,
+      "seed": 11,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1418.0,
+          "captured_at": 1466.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.3413209731693477
+        }
+      ],
+      "mass_drift": 3.2389094300107795e-15
+    },
+    {
+      "setting": "N384_dt0025",
+      "N": 384,
+      "dt": 0.025,
+      "seed": 12,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1096.0,
+          "captured_at": 1144.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.27724474543485583
+        },
+        {
+          "m": 10,
+          "entered_at": 1840.0,
+          "captured_at": 1888.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.2288524479282421
+        },
+        {
+          "m": 9,
+          "entered_at": 2428.0,
+          "captured_at": 2476.0,
+          "changed": true,
+          "change": [
+            816.0,
+            8
+          ],
+          "chi": 0.09089268580462385
+        }
+      ],
+      "mass_drift": 6.585986096763197e-15
+    },
+    {
+      "setting": "N384_dt0025",
+      "N": 384,
+      "dt": 0.025,
+      "seed": 13,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 2376.0,
+          "captured_at": 2424.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.2460243687375135
+        }
+      ],
+      "mass_drift": 7.392813213454492e-15
+    },
+    {
+      "setting": "N384_dt0025",
+      "N": 384,
+      "dt": 0.025,
+      "seed": 14,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1798.0,
+          "captured_at": 1846.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.205631608753294
+        },
+        {
+          "m": 10,
+          "entered_at": 2412.0,
+          "captured_at": 2460.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.16900724676960793
+        }
+      ],
+      "mass_drift": 1.7873434214147705e-15
+    },
+    {
+      "setting": "N384_dt0025",
+      "N": 384,
+      "dt": 0.025,
+      "seed": 15,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 714.0,
+          "captured_at": 762.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.07837180204715448
+        },
+        {
+          "m": 10,
+          "entered_at": 1170.0,
+          "captured_at": 1218.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.08864669875002337
+        },
+        {
+          "m": 9,
+          "entered_at": 2000.0,
+          "captured_at": 2048.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.13739048692420455
+        }
+      ],
+      "mass_drift": 6.585588555966618e-15
+    },
+    {
+      "setting": "N384_dt0025",
+      "N": 384,
+      "dt": 0.025,
+      "seed": 16,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 2446.0,
+          "captured_at": 2494.0,
+          "changed": true,
+          "change": [
+            134.0,
+            10
+          ],
+          "chi": 0.10863726680380856
+        }
+      ],
+      "mass_drift": 1.465841337200402e-15
+    },
+    {
+      "setting": "N384_dt0025",
+      "N": 384,
+      "dt": 0.025,
+      "seed": 17,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ],
+        [
+          9,
+          8
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 960.0,
+          "captured_at": 1008.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.31636610036421425
+        },
+        {
+          "m": 10,
+          "entered_at": 1536.0,
+          "captured_at": 1584.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.17831388367659323
+        },
+        {
+          "m": 9,
+          "entered_at": 2102.0,
+          "captured_at": 2150.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.4978839422929866
+        }
+      ],
+      "mass_drift": 1.2122825891284586e-14
+    },
+    {
+      "setting": "N384_dt0025",
+      "N": 384,
+      "dt": 0.025,
+      "seed": 18,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1118.0,
+          "captured_at": 1166.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.15883542503595213
+        },
+        {
+          "m": 10,
+          "entered_at": 2212.0,
+          "captured_at": 2260.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.12662981964005685
+        }
+      ],
+      "mass_drift": 3.5095262922631614e-15
+    },
+    {
+      "setting": "N384_dt0025",
+      "N": 384,
+      "dt": 0.025,
+      "seed": 19,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 2024.0,
+          "captured_at": 2072.0,
+          "changed": true,
+          "change": [
+            198.0,
+            10
+          ],
+          "chi": 0.2149839282240654
+        },
+        {
+          "m": 10,
+          "entered_at": 2358.0,
+          "captured_at": 2406.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.22922999137348363
+        }
+      ],
+      "mass_drift": 5.58967658039385e-15
+    },
+    {
+      "setting": "N384_dt0025",
+      "N": 384,
+      "dt": 0.025,
+      "seed": 20,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 2312.0,
+          "captured_at": 2360.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.2131857070779148
+        }
+      ],
+      "mass_drift": 5.173523646521497e-15
+    },
+    {
+      "setting": "N384_dt0025",
+      "N": 384,
+      "dt": 0.025,
+      "seed": 21,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ],
+        [
+          9,
+          8
+        ],
+        [
+          8,
+          6
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          5,
+          4
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 736.0,
+          "captured_at": 784.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.3963070247026666
+        },
+        {
+          "m": 10,
+          "entered_at": 1032.0,
+          "captured_at": 1080.0,
+          "changed": true,
+          "change": [
+            142.0,
+            9
+          ],
+          "chi": 0.3828824651421298
+        },
+        {
+          "m": 9,
+          "entered_at": 1208.0,
+          "captured_at": 1256.0,
+          "changed": true,
+          "change": [
+            150.0,
+            8
+          ],
+          "chi": 0.5868616203705938
+        }
+      ],
+      "mass_drift": 1.2895356079252926e-14
+    },
+    {
+      "setting": "N384_dt0025",
+      "N": 384,
+      "dt": 0.025,
+      "seed": 22,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1486.0,
+          "captured_at": 1534.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.1421650819370745
+        }
+      ],
+      "mass_drift": 3.59741894837932e-15
+    },
+    {
+      "setting": "N384_dt0025",
+      "N": 384,
+      "dt": 0.025,
+      "seed": 23,
+      "transitions": [],
+      "branches": [],
+      "mass_drift": 2.8202628311417106e-15
+    },
+    {
+      "setting": "N512_dt000625",
+      "N": 512,
+      "dt": 0.00625,
+      "seed": 0,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1448.0,
+          "captured_at": 1496.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.30187246099649523
+        },
+        {
+          "m": 10,
+          "entered_at": 2132.0,
+          "captured_at": 2180.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.21666782744161958
+        },
+        {
+          "m": 9,
+          "entered_at": 2328.0,
+          "captured_at": 2376.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.22489085335617656
+        }
+      ],
+      "mass_drift": 3.540136933599669e-15
+    },
+    {
+      "setting": "N512_dt000625",
+      "N": 512,
+      "dt": 0.00625,
+      "seed": 1,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1668.0,
+          "captured_at": 1716.0,
+          "changed": true,
+          "change": [
+            18.0,
+            10
+          ],
+          "chi": 0.37631172675388563
+        },
+        {
+          "m": 10,
+          "entered_at": 1732.0,
+          "captured_at": 1780.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.2848889965137671
+        },
+        {
+          "m": 9,
+          "entered_at": 2086.0,
+          "captured_at": 2134.0,
+          "changed": true,
+          "change": [
+            620.0,
+            8
+          ],
+          "chi": 0.2244761026533643
+        }
+      ],
+      "mass_drift": 3.972435444823952e-15
+    },
+    {
+      "setting": "N512_dt000625",
+      "N": 512,
+      "dt": 0.00625,
+      "seed": 2,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 2018.0,
+          "captured_at": 2066.0,
+          "changed": true,
+          "change": [
+            722.0,
+            10
+          ],
+          "chi": 0.16661226421196235
+        },
+        {
+          "m": 10,
+          "entered_at": 2158.0,
+          "captured_at": 2206.0,
+          "changed": true,
+          "change": [
+            496.0,
+            9
+          ],
+          "chi": 0.3079333518639489
+        }
+      ],
+      "mass_drift": 7.341431065496784e-15
+    },
+    {
+      "setting": "N512_dt000625",
+      "N": 512,
+      "dt": 0.00625,
+      "seed": 3,
+      "transitions": [
+        [
+          12,
+          10
+        ]
+      ],
+      "branches": [
+        {
+          "m": 10,
+          "entered_at": 2114.0,
+          "captured_at": 2162.0,
+          "changed": true,
+          "change": [
+            530.0,
+            9
+          ],
+          "chi": 0.26163553418099056
+        }
+      ],
+      "mass_drift": 7.618986821653073e-15
+    },
+    {
+      "setting": "N512_dt000625",
+      "N": 512,
+      "dt": 0.00625,
+      "seed": 4,
+      "transitions": [
+        [
+          12,
+          10
+        ],
+        [
+          10,
+          9
+        ],
+        [
+          9,
+          8
+        ]
+      ],
+      "branches": [
+        {
+          "m": 10,
+          "entered_at": 1300.0,
+          "captured_at": 1348.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.20206757358077837
+        },
+        {
+          "m": 9,
+          "entered_at": 2198.0,
+          "captured_at": 2246.0,
+          "changed": true,
+          "change": [
+            396.0,
+            8
+          ],
+          "chi": 0.5861421486618943
+        }
+      ],
+      "mass_drift": 1.8907672736517833e-15
+    },
+    {
+      "setting": "N512_dt000625",
+      "N": 512,
+      "dt": 0.00625,
+      "seed": 5,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ],
+        [
+          9,
+          8
+        ],
+        [
+          8,
+          7
+        ],
+        [
+          7,
+          6
+        ],
+        [
+          6,
+          5
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1016.0,
+          "captured_at": 1064.0,
+          "changed": true,
+          "change": [
+            120.0,
+            10
+          ],
+          "chi": 0.43227286022901407
+        },
+        {
+          "m": 10,
+          "entered_at": 1150.0,
+          "captured_at": 1198.0,
+          "changed": true,
+          "change": [
+            122.0,
+            9
+          ],
+          "chi": 0.5642241916978182
+        },
+        {
+          "m": 9,
+          "entered_at": 1302.0,
+          "captured_at": 1350.0,
+          "changed": true,
+          "change": [
+            120.0,
+            8
+          ],
+          "chi": 0.7967738522639453
+        }
+      ],
+      "mass_drift": 2.4897618688957124e-15
+    },
+    {
+      "setting": "N512_dt000625",
+      "N": 512,
+      "dt": 0.00625,
+      "seed": 6,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 2196.0,
+          "captured_at": 2244.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.1298383503786486
+        }
+      ],
+      "mass_drift": 4.52285778274053e-15
+    },
+    {
+      "setting": "N512_dt000625",
+      "N": 512,
+      "dt": 0.00625,
+      "seed": 7,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 866.0,
+          "captured_at": 914.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.3206742113753578
+        }
+      ],
+      "mass_drift": 2.3162895212980317e-15
+    },
+    {
+      "setting": "N512_dt000625",
+      "N": 512,
+      "dt": 0.00625,
+      "seed": 8,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          9
+        ],
+        [
+          9,
+          8
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1398.0,
+          "captured_at": 1446.0,
+          "changed": true,
+          "change": [
+            320.0,
+            10
+          ],
+          "chi": 0.297269522315544
+        },
+        {
+          "m": 9,
+          "entered_at": 1698.0,
+          "captured_at": 1746.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.42253699942736667
+        }
+      ],
+      "mass_drift": 1.2130053905767824e-15
+    },
+    {
+      "setting": "N512_dt000625",
+      "N": 512,
+      "dt": 0.00625,
+      "seed": 9,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ],
+        [
+          9,
+          8
+        ],
+        [
+          8,
+          7
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1354.0,
+          "captured_at": 1402.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.178613801769821
+        },
+        {
+          "m": 10,
+          "entered_at": 1524.0,
+          "captured_at": 1572.0,
+          "changed": true,
+          "change": [
+            122.0,
+            9
+          ],
+          "chi": 0.36690594177634706
+        },
+        {
+          "m": 9,
+          "entered_at": 1666.0,
+          "captured_at": 1714.0,
+          "changed": true,
+          "change": [
+            1256.0,
+            8
+          ],
+          "chi": 0.49138837441585365
+        }
+      ],
+      "mass_drift": 7.972870410752342e-15
+    },
+    {
+      "setting": "N512_dt000625",
+      "N": 512,
+      "dt": 0.00625,
+      "seed": 10,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1578.0,
+          "captured_at": 1626.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.15387322980049115
+        },
+        {
+          "m": 10,
+          "entered_at": 1936.0,
+          "captured_at": 1984.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.21354891947268356
+        },
+        {
+          "m": 9,
+          "entered_at": 2374.0,
+          "captured_at": 2422.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.2008925328686664
+        }
+      ],
+      "mass_drift": 3.6719759177739064e-15
+    },
+    {
+      "setting": "N512_dt000625",
+      "N": 512,
+      "dt": 0.00625,
+      "seed": 11,
+      "transitions": [],
+      "branches": [],
+      "mass_drift": 5.711143363784643e-15
+    },
+    {
+      "setting": "N512_dt000625",
+      "N": 512,
+      "dt": 0.00625,
+      "seed": 12,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1056.0,
+          "captured_at": 1104.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.22091458294256655
+        },
+        {
+          "m": 10,
+          "entered_at": 1686.0,
+          "captured_at": 1734.0,
+          "changed": true,
+          "change": [
+            842.0,
+            9
+          ],
+          "chi": 0.2674766185735013
+        },
+        {
+          "m": 9,
+          "entered_at": 1842.0,
+          "captured_at": 1890.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.12646991007793315
+        }
+      ],
+      "mass_drift": 4.735361408547689e-15
+    },
+    {
+      "setting": "N512_dt000625",
+      "N": 512,
+      "dt": 0.00625,
+      "seed": 13,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 2260.0,
+          "captured_at": 2308.0,
+          "changed": true,
+          "change": [
+            180.0,
+            10
+          ],
+          "chi": 0.3569404969794896
+        }
+      ],
+      "mass_drift": 2.6419025387497408e-15
+    },
+    {
+      "setting": "N512_dt000625",
+      "N": 512,
+      "dt": 0.00625,
+      "seed": 14,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1168.0,
+          "captured_at": 1216.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.19536945680531265
+        }
+      ],
+      "mass_drift": 4.3450486264529076e-15
+    },
+    {
+      "setting": "N512_dt000625",
+      "N": 512,
+      "dt": 0.00625,
+      "seed": 15,
+      "transitions": [],
+      "branches": [],
+      "mass_drift": 3.4161042050673274e-15
+    },
+    {
+      "setting": "N512_dt000625",
+      "N": 512,
+      "dt": 0.00625,
+      "seed": 16,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          9
+        ],
+        [
+          9,
+          7
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1248.0,
+          "captured_at": 1296.0,
+          "changed": true,
+          "change": [
+            534.0,
+            10
+          ],
+          "chi": 0.20964382764247674
+        },
+        {
+          "m": 9,
+          "entered_at": 1710.0,
+          "captured_at": 1758.0,
+          "changed": true,
+          "change": [
+            604.0,
+            8
+          ],
+          "chi": 0.3662077153060285
+        }
+      ],
+      "mass_drift": 2.8471149049469346e-15
+    },
+    {
+      "setting": "N512_dt000625",
+      "N": 512,
+      "dt": 0.00625,
+      "seed": 17,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          9
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1656.0,
+          "captured_at": 1704.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.1987060074244246
+        },
+        {
+          "m": 9,
+          "entered_at": 2446.0,
+          "captured_at": 2494.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.34802832571732945
+        }
+      ],
+      "mass_drift": 6.5294178484137655e-15
+    },
+    {
+      "setting": "N512_dt000625",
+      "N": 512,
+      "dt": 0.00625,
+      "seed": 18,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1224.0,
+          "captured_at": 1272.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.2518083111313594
+        },
+        {
+          "m": 10,
+          "entered_at": 2018.0,
+          "captured_at": 2066.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.20538752533793542
+        }
+      ],
+      "mass_drift": 2.7972416050126014e-16
+    },
+    {
+      "setting": "N512_dt000625",
+      "N": 512,
+      "dt": 0.00625,
+      "seed": 19,
+      "transitions": [],
+      "branches": [],
+      "mass_drift": 1.1947907940790259e-15
+    },
+    {
+      "setting": "N512_dt000625",
+      "N": 512,
+      "dt": 0.00625,
+      "seed": 20,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ],
+        [
+          9,
+          8
+        ],
+        [
+          8,
+          7
+        ],
+        [
+          7,
+          6
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1670.0,
+          "captured_at": 1718.0,
+          "changed": true,
+          "change": [
+            106.0,
+            10
+          ],
+          "chi": 0.3586738318011608
+        },
+        {
+          "m": 10,
+          "entered_at": 1786.0,
+          "captured_at": 1834.0,
+          "changed": true,
+          "change": [
+            172.0,
+            9
+          ],
+          "chi": 0.4357406780302674
+        },
+        {
+          "m": 9,
+          "entered_at": 1980.0,
+          "captured_at": 2028.0,
+          "changed": true,
+          "change": [
+            126.0,
+            8
+          ],
+          "chi": 0.6674030171312535
+        }
+      ],
+      "mass_drift": 7.41759626811389e-15
+    },
+    {
+      "setting": "N512_dt000625",
+      "N": 512,
+      "dt": 0.00625,
+      "seed": 21,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1468.0,
+          "captured_at": 1516.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.37459902185816424
+        },
+        {
+          "m": 10,
+          "entered_at": 1692.0,
+          "captured_at": 1740.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.29134446299098515
+        }
+      ],
+      "mass_drift": 1.5802517714519349e-15
+    },
+    {
+      "setting": "N512_dt000625",
+      "N": 512,
+      "dt": 0.00625,
+      "seed": 22,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1290.0,
+          "captured_at": 1338.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.2950159393166175
+        },
+        {
+          "m": 10,
+          "entered_at": 1848.0,
+          "captured_at": 1896.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.3125773139680883
+        }
+      ],
+      "mass_drift": 1.0625181290357943e-16
+    },
+    {
+      "setting": "N512_dt000625",
+      "N": 512,
+      "dt": 0.00625,
+      "seed": 23,
+      "transitions": [],
+      "branches": [],
+      "mass_drift": 5.2276705100190446e-15
+    },
+    {
+      "setting": "N512_dt00125",
+      "N": 512,
+      "dt": 0.0125,
+      "seed": 0,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 2394.0,
+          "captured_at": 2442.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.20545923599713345
+        }
+      ],
+      "mass_drift": 1.6756615626306592e-15
+    },
+    {
+      "setting": "N512_dt00125",
+      "N": 512,
+      "dt": 0.0125,
+      "seed": 1,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ],
+        [
+          9,
+          8
+        ],
+        [
+          8,
+          7
+        ],
+        [
+          7,
+          6
+        ],
+        [
+          6,
+          5
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 834.0,
+          "captured_at": 882.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.3470944144212394
+        },
+        {
+          "m": 10,
+          "entered_at": 1030.0,
+          "captured_at": 1078.0,
+          "changed": true,
+          "change": [
+            48.0,
+            9
+          ],
+          "chi": 0.8442259572741407
+        },
+        {
+          "m": 9,
+          "entered_at": 1120.0,
+          "captured_at": 1168.0,
+          "changed": true,
+          "change": [
+            122.0,
+            8
+          ],
+          "chi": 1.0768011437763219
+        }
+      ],
+      "mass_drift": 1.1600963245594897e-15
+    },
+    {
+      "setting": "N512_dt00125",
+      "N": 512,
+      "dt": 0.0125,
+      "seed": 2,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 986.0,
+          "captured_at": 1034.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.155385733310476
+        }
+      ],
+      "mass_drift": 3.143237623307038e-15
+    },
+    {
+      "setting": "N512_dt00125",
+      "N": 512,
+      "dt": 0.0125,
+      "seed": 3,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 2152.0,
+          "captured_at": 2200.0,
+          "changed": true,
+          "change": [
+            538.0,
+            10
+          ],
+          "chi": 0.20589073955167228
+        }
+      ],
+      "mass_drift": 4.600567973453429e-15
+    },
+    {
+      "setting": "N512_dt00125",
+      "N": 512,
+      "dt": 0.0125,
+      "seed": 4,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1340.0,
+          "captured_at": 1388.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.14854872593789034
+        },
+        {
+          "m": 10,
+          "entered_at": 1986.0,
+          "captured_at": 2034.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.17672533284175648
+        }
+      ],
+      "mass_drift": 2.0156673639221134e-15
+    },
+    {
+      "setting": "N512_dt00125",
+      "N": 512,
+      "dt": 0.0125,
+      "seed": 5,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 464.0,
+          "captured_at": 512.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.21415201315115018
+        }
+      ],
+      "mass_drift": 3.6048366982427416e-15
+    },
+    {
+      "setting": "N512_dt00125",
+      "N": 512,
+      "dt": 0.0125,
+      "seed": 6,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1986.0,
+          "captured_at": 2034.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.16306051586757153
+        }
+      ],
+      "mass_drift": 3.683170305204819e-15
+    },
+    {
+      "setting": "N512_dt00125",
+      "N": 512,
+      "dt": 0.0125,
+      "seed": 7,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1344.0,
+          "captured_at": 1392.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.13727588836361104
+        },
+        {
+          "m": 10,
+          "entered_at": 1774.0,
+          "captured_at": 1822.0,
+          "changed": true,
+          "change": [
+            326.0,
+            9
+          ],
+          "chi": 0.11564897479184831
+        },
+        {
+          "m": 9,
+          "entered_at": 2076.0,
+          "captured_at": 2124.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.23360123250783252
+        }
+      ],
+      "mass_drift": 2.0040392956222064e-15
+    },
+    {
+      "setting": "N512_dt00125",
+      "N": 512,
+      "dt": 0.0125,
+      "seed": 8,
+      "transitions": [
+        [
+          12,
+          10
+        ]
+      ],
+      "branches": [
+        {
+          "m": 10,
+          "entered_at": 2268.0,
+          "captured_at": 2316.0,
+          "changed": true,
+          "change": [
+            204.0,
+            9
+          ],
+          "chi": 0.4440558431866714
+        }
+      ],
+      "mass_drift": 2.917886201755926e-15
+    },
+    {
+      "setting": "N512_dt00125",
+      "N": 512,
+      "dt": 0.0125,
+      "seed": 9,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ],
+        [
+          9,
+          8
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 724.0,
+          "captured_at": 772.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.1311933272348654
+        },
+        {
+          "m": 10,
+          "entered_at": 1044.0,
+          "captured_at": 1092.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.2324538531125737
+        },
+        {
+          "m": 9,
+          "entered_at": 1522.0,
+          "captured_at": 1570.0,
+          "changed": true,
+          "change": [
+            238.0,
+            8
+          ],
+          "chi": 0.28185663132561756
+        }
+      ],
+      "mass_drift": 3.776059326332515e-15
+    },
+    {
+      "setting": "N512_dt00125",
+      "N": 512,
+      "dt": 0.0125,
+      "seed": 10,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1816.0,
+          "captured_at": 1864.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.15216381790244354
+        }
+      ],
+      "mass_drift": 1.1358101958958144e-15
+    },
+    {
+      "setting": "N512_dt00125",
+      "N": 512,
+      "dt": 0.0125,
+      "seed": 11,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1032.0,
+          "captured_at": 1080.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.19114532008101867
+        }
+      ],
+      "mass_drift": 4.992615479024187e-15
+    },
+    {
+      "setting": "N512_dt00125",
+      "N": 512,
+      "dt": 0.0125,
+      "seed": 12,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1272.0,
+          "captured_at": 1320.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.33089293115352264
+        },
+        {
+          "m": 10,
+          "entered_at": 1696.0,
+          "captured_at": 1744.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.36498207829412815
+        }
+      ],
+      "mass_drift": 2.4564497571460953e-15
+    },
+    {
+      "setting": "N512_dt00125",
+      "N": 512,
+      "dt": 0.0125,
+      "seed": 13,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1644.0,
+          "captured_at": 1692.0,
+          "changed": true,
+          "change": [
+            382.0,
+            10
+          ],
+          "chi": 0.30311319502144446
+        },
+        {
+          "m": 10,
+          "entered_at": 1990.0,
+          "captured_at": 2038.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.2338803920579213
+        }
+      ],
+      "mass_drift": 4.753955475805816e-16
+    },
+    {
+      "setting": "N512_dt00125",
+      "N": 512,
+      "dt": 0.0125,
+      "seed": 14,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1530.0,
+          "captured_at": 1578.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.2946534052111203
+        }
+      ],
+      "mass_drift": 5.7106283677527125e-15
+    },
+    {
+      "setting": "N512_dt00125",
+      "N": 512,
+      "dt": 0.0125,
+      "seed": 15,
+      "transitions": [],
+      "branches": [],
+      "mass_drift": 3.838861737173738e-15
+    },
+    {
+      "setting": "N512_dt00125",
+      "N": 512,
+      "dt": 0.0125,
+      "seed": 16,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 2400.0,
+          "captured_at": 2448.0,
+          "changed": true,
+          "change": [
+            500.0,
+            9
+          ],
+          "chi": 0.33683208453986524
+        }
+      ],
+      "mass_drift": 3.026658784710534e-15
+    },
+    {
+      "setting": "N512_dt00125",
+      "N": 512,
+      "dt": 0.0125,
+      "seed": 17,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ],
+        [
+          9,
+          8
+        ],
+        [
+          8,
+          7
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1394.0,
+          "captured_at": 1442.0,
+          "changed": true,
+          "change": [
+            116.0,
+            10
+          ],
+          "chi": 0.40138928144705716
+        },
+        {
+          "m": 10,
+          "entered_at": 1484.0,
+          "captured_at": 1532.0,
+          "changed": true,
+          "change": [
+            544.0,
+            9
+          ],
+          "chi": 0.34704635085305263
+        },
+        {
+          "m": 9,
+          "entered_at": 1868.0,
+          "captured_at": 1916.0,
+          "changed": true,
+          "change": [
+            136.0,
+            8
+          ],
+          "chi": 0.3848444984992513
+        }
+      ],
+      "mass_drift": 2.0040392956222064e-15
+    },
+    {
+      "setting": "N512_dt00125",
+      "N": 512,
+      "dt": 0.0125,
+      "seed": 18,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1954.0,
+          "captured_at": 2002.0,
+          "changed": true,
+          "change": [
+            98.0,
+            10
+          ],
+          "chi": 0.5539949824036352
+        },
+        {
+          "m": 10,
+          "entered_at": 2252.0,
+          "captured_at": 2300.0,
+          "changed": true,
+          "change": [
+            4.0,
+            9
+          ],
+          "chi": 0.929308261961168
+        },
+        {
+          "m": 9,
+          "entered_at": 2304.0,
+          "captured_at": 2352.0,
+          "changed": true,
+          "change": [
+            144.0,
+            8
+          ],
+          "chi": 1.0734123164740705
+        }
+      ],
+      "mass_drift": 4.511582080146681e-15
+    },
+    {
+      "setting": "N512_dt00125",
+      "N": 512,
+      "dt": 0.0125,
+      "seed": 19,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 962.0,
+          "captured_at": 1010.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.22031024994795032
+        },
+        {
+          "m": 10,
+          "entered_at": 2124.0,
+          "captured_at": 2172.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.15618650735094877
+        }
+      ],
+      "mass_drift": 3.645087703896266e-15
+    },
+    {
+      "setting": "N512_dt00125",
+      "N": 512,
+      "dt": 0.0125,
+      "seed": 20,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          9
+        ],
+        [
+          9,
+          8
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1934.0,
+          "captured_at": 1982.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.318893796066855
+        },
+        {
+          "m": 9,
+          "entered_at": 2154.0,
+          "captured_at": 2202.0,
+          "changed": true,
+          "change": [
+            110.0,
+            8
+          ],
+          "chi": 0.49044107629381967
+        }
+      ],
+      "mass_drift": 1.8518173106052416e-16
+    },
+    {
+      "setting": "N512_dt00125",
+      "N": 512,
+      "dt": 0.0125,
+      "seed": 21,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 2396.0,
+          "captured_at": 2444.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.14635758384347122
+        }
+      ],
+      "mass_drift": 1.4711268227912688e-15
+    },
+    {
+      "setting": "N512_dt00125",
+      "N": 512,
+      "dt": 0.0125,
+      "seed": 22,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 2134.0,
+          "captured_at": 2182.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.30125243545042313
+        }
+      ],
+      "mass_drift": 2.133791190614409e-15
+    },
+    {
+      "setting": "N512_dt00125",
+      "N": 512,
+      "dt": 0.0125,
+      "seed": 23,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1638.0,
+          "captured_at": 1686.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.3116866262936492
+        },
+        {
+          "m": 10,
+          "entered_at": 2094.0,
+          "captured_at": 2142.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.15103219479712995
+        }
+      ],
+      "mass_drift": 3.3987569703075593e-15
+    },
+    {
+      "setting": "N512_dt0025",
+      "N": 512,
+      "dt": 0.025,
+      "seed": 0,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ],
+        [
+          9,
+          8
+        ],
+        [
+          8,
+          7
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1494.0,
+          "captured_at": 1542.0,
+          "changed": true,
+          "change": [
+            86.0,
+            10
+          ],
+          "chi": 0.2551124934043518
+        },
+        {
+          "m": 10,
+          "entered_at": 1620.0,
+          "captured_at": 1668.0,
+          "changed": true,
+          "change": [
+            256.0,
+            8
+          ],
+          "chi": 0.4477840638833206
+        },
+        {
+          "m": 9,
+          "entered_at": 1916.0,
+          "captured_at": 1964.0,
+          "changed": true,
+          "change": [
+            108.0,
+            8
+          ],
+          "chi": 0.34025318506502555
+        }
+      ],
+      "mass_drift": 5.372519920263108e-15
+    },
+    {
+      "setting": "N512_dt0025",
+      "N": 512,
+      "dt": 0.025,
+      "seed": 1,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 802.0,
+          "captured_at": 850.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.11468233653307021
+        },
+        {
+          "m": 10,
+          "entered_at": 998.0,
+          "captured_at": 1046.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.23612482914684194
+        }
+      ],
+      "mass_drift": 1.8146020710346766e-15
+    },
+    {
+      "setting": "N512_dt0025",
+      "N": 512,
+      "dt": 0.025,
+      "seed": 2,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 2056.0,
+          "captured_at": 2104.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.1590837683912698
+        }
+      ],
+      "mass_drift": 1.3405075660610777e-15
+    },
+    {
+      "setting": "N512_dt0025",
+      "N": 512,
+      "dt": 0.025,
+      "seed": 3,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1896.0,
+          "captured_at": 1944.0,
+          "changed": true,
+          "change": [
+            176.0,
+            10
+          ],
+          "chi": 0.31926972184579633
+        },
+        {
+          "m": 10,
+          "entered_at": 2052.0,
+          "captured_at": 2100.0,
+          "changed": true,
+          "change": [
+            164.0,
+            9
+          ],
+          "chi": 0.30768479353710654
+        },
+        {
+          "m": 9,
+          "entered_at": 2432.0,
+          "captured_at": 2480.0,
+          "changed": true,
+          "change": [
+            2074.0,
+            8
+          ],
+          "chi": 0.1836200296049441
+        }
+      ],
+      "mass_drift": 2.3050138187041824e-15
+    },
+    {
+      "setting": "N512_dt0025",
+      "N": 512,
+      "dt": 0.025,
+      "seed": 4,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1896.0,
+          "captured_at": 1944.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.3257217860775556
+        },
+        {
+          "m": 10,
+          "entered_at": 2414.0,
+          "captured_at": 2462.0,
+          "changed": true,
+          "change": [
+            596.0,
+            9
+          ],
+          "chi": 0.4356336708134783
+        }
+      ],
+      "mass_drift": 7.009095994575665e-16
+    },
+    {
+      "setting": "N512_dt0025",
+      "N": 512,
+      "dt": 0.025,
+      "seed": 5,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1900.0,
+          "captured_at": 1948.0,
+          "changed": true,
+          "change": [
+            34.0,
+            10
+          ],
+          "chi": 0.27568366191188376
+        },
+        {
+          "m": 10,
+          "entered_at": 1978.0,
+          "captured_at": 2026.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.23637926696211808
+        }
+      ],
+      "mass_drift": 9.054443392969569e-16
+    },
+    {
+      "setting": "N512_dt0025",
+      "N": 512,
+      "dt": 0.025,
+      "seed": 6,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1736.0,
+          "captured_at": 1784.0,
+          "changed": true,
+          "change": [
+            12.0,
+            10
+          ],
+          "chi": 0.27334783883038033
+        },
+        {
+          "m": 10,
+          "entered_at": 1800.0,
+          "captured_at": 1848.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.1476199148299947
+        }
+      ],
+      "mass_drift": 4.8549760132271524e-15
+    },
+    {
+      "setting": "N512_dt0025",
+      "N": 512,
+      "dt": 0.025,
+      "seed": 7,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1994.0,
+          "captured_at": 2042.0,
+          "changed": true,
+          "change": [
+            1018.0,
+            10
+          ],
+          "chi": 0.12895315597426105
+        }
+      ],
+      "mass_drift": 2.9768667999391374e-15
+    },
+    {
+      "setting": "N512_dt0025",
+      "N": 512,
+      "dt": 0.025,
+      "seed": 8,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 738.0,
+          "captured_at": 786.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.24842033389078003
+        },
+        {
+          "m": 10,
+          "entered_at": 1504.0,
+          "captured_at": 1552.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.2521642341085641
+        }
+      ],
+      "mass_drift": 3.2195654562500176e-15
+    },
+    {
+      "setting": "N512_dt0025",
+      "N": 512,
+      "dt": 0.025,
+      "seed": 9,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 682.0,
+          "captured_at": 730.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.24921701465539572
+        },
+        {
+          "m": 10,
+          "entered_at": 1008.0,
+          "captured_at": 1056.0,
+          "changed": true,
+          "change": [
+            74.0,
+            9
+          ],
+          "chi": 0.42784243986337606
+        },
+        {
+          "m": 9,
+          "entered_at": 1458.0,
+          "captured_at": 1506.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.2703652294495882
+        }
+      ],
+      "mass_drift": 2.612412239658135e-15
+    },
+    {
+      "setting": "N512_dt0025",
+      "N": 512,
+      "dt": 0.025,
+      "seed": 10,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1110.0,
+          "captured_at": 1158.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.21833258388253288
+        },
+        {
+          "m": 10,
+          "entered_at": 1994.0,
+          "captured_at": 2042.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.16246964231142338
+        }
+      ],
+      "mass_drift": 2.550124824848843e-15
+    },
+    {
+      "setting": "N512_dt0025",
+      "N": 512,
+      "dt": 0.025,
+      "seed": 11,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 826.0,
+          "captured_at": 874.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.1518569794092835
+        },
+        {
+          "m": 10,
+          "entered_at": 1576.0,
+          "captured_at": 1624.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.24824285959629383
+        }
+      ],
+      "mass_drift": 1.3392878386170315e-15
+    },
+    {
+      "setting": "N512_dt0025",
+      "N": 512,
+      "dt": 0.025,
+      "seed": 12,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 998.0,
+          "captured_at": 1046.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.3027899811724707
+        },
+        {
+          "m": 10,
+          "entered_at": 1574.0,
+          "captured_at": 1622.0,
+          "changed": true,
+          "change": [
+            70.0,
+            9
+          ],
+          "chi": 0.178548269626706
+        },
+        {
+          "m": 9,
+          "entered_at": 1696.0,
+          "captured_at": 1744.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.372838652960957
+        }
+      ],
+      "mass_drift": 1.5482407023093003e-16
+    },
+    {
+      "setting": "N512_dt0025",
+      "N": 512,
+      "dt": 0.025,
+      "seed": 13,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 2182.0,
+          "captured_at": 2230.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.2628400506632998
+        }
+      ],
+      "mass_drift": 1.4862243380431295e-15
+    },
+    {
+      "setting": "N512_dt0025",
+      "N": 512,
+      "dt": 0.025,
+      "seed": 14,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 502.0,
+          "captured_at": 550.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.2856489293397178
+        },
+        {
+          "m": 10,
+          "entered_at": 2002.0,
+          "captured_at": 2050.0,
+          "changed": true,
+          "change": [
+            26.0,
+            9
+          ],
+          "chi": 0.25887890711059086
+        },
+        {
+          "m": 9,
+          "entered_at": 2072.0,
+          "captured_at": 2120.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.19330243731301142
+        }
+      ],
+      "mass_drift": 3.3779402885958376e-15
+    },
+    {
+      "setting": "N512_dt0025",
+      "N": 512,
+      "dt": 0.025,
+      "seed": 15,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1308.0,
+          "captured_at": 1356.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.18271173547999733
+        },
+        {
+          "m": 10,
+          "entered_at": 1634.0,
+          "captured_at": 1682.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.24542460304299915
+        },
+        {
+          "m": 9,
+          "entered_at": 2050.0,
+          "captured_at": 2098.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.07156377587622548
+        }
+      ],
+      "mass_drift": 2.484991379336776e-16
+    },
+    {
+      "setting": "N512_dt0025",
+      "N": 512,
+      "dt": 0.025,
+      "seed": 16,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ],
+        [
+          9,
+          8
+        ],
+        [
+          8,
+          7
+        ],
+        [
+          7,
+          6
+        ],
+        [
+          6,
+          5
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 938.0,
+          "captured_at": 986.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.3120843428156063
+        },
+        {
+          "m": 10,
+          "entered_at": 1070.0,
+          "captured_at": 1118.0,
+          "changed": true,
+          "change": [
+            188.0,
+            9
+          ],
+          "chi": 0.31779047255071413
+        },
+        {
+          "m": 9,
+          "entered_at": 1276.0,
+          "captured_at": 1324.0,
+          "changed": true,
+          "change": [
+            64.0,
+            8
+          ],
+          "chi": 0.31981265213832727
+        }
+      ],
+      "mass_drift": 1.641915770012048e-15
+    },
+    {
+      "setting": "N512_dt0025",
+      "N": 512,
+      "dt": 0.025,
+      "seed": 17,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1654.0,
+          "captured_at": 1702.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.2580791540382865
+        }
+      ],
+      "mass_drift": 1.3843906489924285e-15
+    },
+    {
+      "setting": "N512_dt0025",
+      "N": 512,
+      "dt": 0.025,
+      "seed": 18,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1354.0,
+          "captured_at": 1402.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.2609333230788815
+        },
+        {
+          "m": 10,
+          "entered_at": 1726.0,
+          "captured_at": 1774.0,
+          "changed": true,
+          "change": [
+            278.0,
+            9
+          ],
+          "chi": 0.4111789903373108
+        },
+        {
+          "m": 9,
+          "entered_at": 1910.0,
+          "captured_at": 1958.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.40935628539974833
+        }
+      ],
+      "mass_drift": 4.28484830082565e-15
+    },
+    {
+      "setting": "N512_dt0025",
+      "N": 512,
+      "dt": 0.025,
+      "seed": 19,
+      "transitions": [
+        [
+          12,
+          10
+        ],
+        [
+          10,
+          9
+        ],
+        [
+          9,
+          8
+        ]
+      ],
+      "branches": [
+        {
+          "m": 10,
+          "entered_at": 1318.0,
+          "captured_at": 1366.0,
+          "changed": true,
+          "change": [
+            1500.0,
+            9
+          ],
+          "chi": 0.3532912744462719
+        },
+        {
+          "m": 9,
+          "entered_at": 1932.0,
+          "captured_at": 1980.0,
+          "changed": true,
+          "change": [
+            832.0,
+            8
+          ],
+          "chi": 0.30454966480311696
+        }
+      ],
+      "mass_drift": 2.0956272741429194e-15
+    },
+    {
+      "setting": "N512_dt0025",
+      "N": 512,
+      "dt": 0.025,
+      "seed": 20,
+      "transitions": [],
+      "branches": [],
+      "mass_drift": 2.000217482964195e-15
+    },
+    {
+      "setting": "N512_dt0025",
+      "N": 512,
+      "dt": 0.025,
+      "seed": 21,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1414.0,
+          "captured_at": 1462.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.227805867758282
+        }
+      ],
+      "mass_drift": 1.945058697438995e-15
+    },
+    {
+      "setting": "N512_dt0025",
+      "N": 512,
+      "dt": 0.025,
+      "seed": 22,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ],
+        [
+          9,
+          8
+        ],
+        [
+          8,
+          7
+        ],
+        [
+          7,
+          6
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1704.0,
+          "captured_at": 1752.0,
+          "changed": true,
+          "change": [
+            60.0,
+            10
+          ],
+          "chi": 0.31956723932602166
+        },
+        {
+          "m": 10,
+          "entered_at": 1828.0,
+          "captured_at": 1876.0,
+          "changed": true,
+          "change": [
+            56.0,
+            9
+          ],
+          "chi": 0.40517939907097017
+        },
+        {
+          "m": 9,
+          "entered_at": 1918.0,
+          "captured_at": 1966.0,
+          "changed": true,
+          "change": [
+            64.0,
+            8
+          ],
+          "chi": 0.4312543743919881
+        }
+      ],
+      "mass_drift": 1.3127519904454488e-15
+    },
+    {
+      "setting": "N512_dt0025",
+      "N": 512,
+      "dt": 0.025,
+      "seed": 23,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1976.0,
+          "captured_at": 2024.0,
+          "changed": true,
+          "change": [
+            28.0,
+            10
+          ],
+          "chi": 0.2317209729816442
+        },
+        {
+          "m": 10,
+          "entered_at": 2040.0,
+          "captured_at": 2088.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.1863264010792768
+        }
+      ],
+      "mass_drift": 1.6596966856408102e-15
+    },
+    {
+      "setting": "N768_dt0025",
+      "N": 768,
+      "dt": 0.025,
+      "seed": 0,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 2430.0,
+          "captured_at": 2478.0,
+          "changed": true,
+          "change": [
+            190.0,
+            10
+          ],
+          "chi": 0.17640634036262368
+        }
+      ],
+      "mass_drift": 2.706168622523819e-15
+    },
+    {
+      "setting": "N768_dt0025",
+      "N": 768,
+      "dt": 0.025,
+      "seed": 1,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1468.0,
+          "captured_at": 1516.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.23955833018296427
+        },
+        {
+          "m": 10,
+          "entered_at": 1830.0,
+          "captured_at": 1878.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.20164584225442464
+        }
+      ],
+      "mass_drift": 3.390806154375999e-15
+    },
+    {
+      "setting": "N768_dt0025",
+      "N": 768,
+      "dt": 0.025,
+      "seed": 2,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ],
+        [
+          9,
+          8
+        ],
+        [
+          8,
+          6
+        ],
+        [
+          6,
+          5
+        ],
+        [
+          5,
+          4
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 648.0,
+          "captured_at": 696.0,
+          "changed": true,
+          "change": [
+            432.0,
+            10
+          ],
+          "chi": 0.3138141642191693
+        },
+        {
+          "m": 10,
+          "entered_at": 824.0,
+          "captured_at": 872.0,
+          "changed": true,
+          "change": [
+            188.0,
+            8
+          ],
+          "chi": 0.3573692207061936
+        },
+        {
+          "m": 9,
+          "entered_at": 976.0,
+          "captured_at": 1024.0,
+          "changed": true,
+          "change": [
+            6.0,
+            8
+          ],
+          "chi": 0.5377294864967326
+        }
+      ],
+      "mass_drift": 9.076073226310655e-15
+    },
+    {
+      "setting": "N768_dt0025",
+      "N": 768,
+      "dt": 0.025,
+      "seed": 3,
+      "transitions": [],
+      "branches": [],
+      "mass_drift": 7.195632978351796e-15
+    },
+    {
+      "setting": "N768_dt0025",
+      "N": 768,
+      "dt": 0.025,
+      "seed": 4,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1882.0,
+          "captured_at": 1930.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.2258397824463291
+        },
+        {
+          "m": 10,
+          "entered_at": 2360.0,
+          "captured_at": 2408.0,
+          "changed": true,
+          "change": [
+            94.0,
+            9
+          ],
+          "chi": 0.3364757358922023
+        }
+      ],
+      "mass_drift": 1.3438324527233665e-14
+    },
+    {
+      "setting": "N768_dt0025",
+      "N": 768,
+      "dt": 0.025,
+      "seed": 5,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 2240.0,
+          "captured_at": 2288.0,
+          "changed": true,
+          "change": [
+            274.0,
+            10
+          ],
+          "chi": 0.3134664373350042
+        }
+      ],
+      "mass_drift": 4.510281037539696e-16
+    },
+    {
+      "setting": "N768_dt0025",
+      "N": 768,
+      "dt": 0.025,
+      "seed": 6,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1690.0,
+          "captured_at": 1738.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.27155827907344793
+        },
+        {
+          "m": 10,
+          "entered_at": 2442.0,
+          "captured_at": 2490.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.21614035324238945
+        }
+      ],
+      "mass_drift": 3.5561831257524545e-15
+    },
+    {
+      "setting": "N768_dt0025",
+      "N": 768,
+      "dt": 0.025,
+      "seed": 7,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1280.0,
+          "captured_at": 1328.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.21285406026359582
+        }
+      ],
+      "mass_drift": 6.027585837860746e-15
+    },
+    {
+      "setting": "N768_dt0025",
+      "N": 768,
+      "dt": 0.025,
+      "seed": 8,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 902.0,
+          "captured_at": 950.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.2910417123644514
+        },
+        {
+          "m": 10,
+          "entered_at": 982.0,
+          "captured_at": 1030.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.29458120021289025
+        },
+        {
+          "m": 9,
+          "entered_at": 1852.0,
+          "captured_at": 1900.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.23942451066118958
+        }
+      ],
+      "mass_drift": 6.804741955098356e-15
+    },
+    {
+      "setting": "N768_dt0025",
+      "N": 768,
+      "dt": 0.025,
+      "seed": 9,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ],
+        [
+          9,
+          8
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1254.0,
+          "captured_at": 1302.0,
+          "changed": true,
+          "change": [
+            104.0,
+            10
+          ],
+          "chi": 0.2753262048119184
+        },
+        {
+          "m": 10,
+          "entered_at": 1470.0,
+          "captured_at": 1518.0,
+          "changed": true,
+          "change": [
+            466.0,
+            9
+          ],
+          "chi": 0.18870698279091092
+        },
+        {
+          "m": 9,
+          "entered_at": 1914.0,
+          "captured_at": 1962.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.2630034489726343
+        }
+      ],
+      "mass_drift": 3.81407868251434e-15
+    },
+    {
+      "setting": "N768_dt0025",
+      "N": 768,
+      "dt": 0.025,
+      "seed": 10,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 2306.0,
+          "captured_at": 2354.0,
+          "changed": true,
+          "change": [
+            1070.0,
+            10
+          ],
+          "chi": 0.14572280502525398
+        }
+      ],
+      "mass_drift": 7.30202935154504e-15
+    },
+    {
+      "setting": "N768_dt0025",
+      "N": 768,
+      "dt": 0.025,
+      "seed": 11,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1738.0,
+          "captured_at": 1786.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.14171654953020105
+        },
+        {
+          "m": 10,
+          "entered_at": 1856.0,
+          "captured_at": 1904.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.2957879061766278
+        }
+      ],
+      "mass_drift": 4.9034850254277745e-15
+    },
+    {
+      "setting": "N768_dt0025",
+      "N": 768,
+      "dt": 0.025,
+      "seed": 12,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1870.0,
+          "captured_at": 1918.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.1225560699148015
+        },
+        {
+          "m": 10,
+          "entered_at": 2260.0,
+          "captured_at": 2308.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.1365451400201179
+        }
+      ],
+      "mass_drift": 1.6884641832840921e-15
+    },
+    {
+      "setting": "N768_dt0025",
+      "N": 768,
+      "dt": 0.025,
+      "seed": 13,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1214.0,
+          "captured_at": 1262.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.15098700009934404
+        }
+      ],
+      "mass_drift": 5.837922737820615e-15
+    },
+    {
+      "setting": "N768_dt0025",
+      "N": 768,
+      "dt": 0.025,
+      "seed": 14,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ],
+        [
+          9,
+          8
+        ],
+        [
+          8,
+          7
+        ],
+        [
+          7,
+          6
+        ],
+        [
+          6,
+          5
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1306.0,
+          "captured_at": 1354.0,
+          "changed": true,
+          "change": [
+            234.0,
+            10
+          ],
+          "chi": 0.3023638324726905
+        },
+        {
+          "m": 10,
+          "entered_at": 1506.0,
+          "captured_at": 1554.0,
+          "changed": true,
+          "change": [
+            30.0,
+            9
+          ],
+          "chi": 0.46863728148666
+        },
+        {
+          "m": 9,
+          "entered_at": 1572.0,
+          "captured_at": 1620.0,
+          "changed": true,
+          "change": [
+            18.0,
+            8
+          ],
+          "chi": 0.659489073302592
+        }
+      ],
+      "mass_drift": 1.7476760779307675e-14
+    },
+    {
+      "setting": "N768_dt0025",
+      "N": 768,
+      "dt": 0.025,
+      "seed": 15,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1394.0,
+          "captured_at": 1442.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.27062624939582836
+        }
+      ],
+      "mass_drift": 1.3322676295501878e-15
+    },
+    {
+      "setting": "N768_dt0025",
+      "N": 768,
+      "dt": 0.025,
+      "seed": 16,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          9
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 982.0,
+          "captured_at": 1030.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.144753149427599
+        },
+        {
+          "m": 10,
+          "entered_at": 1742.0,
+          "captured_at": 1790.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.22315872960325592
+        },
+        {
+          "m": 9,
+          "entered_at": 1968.0,
+          "captured_at": 2016.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.2975640110759273
+        }
+      ],
+      "mass_drift": 7.817820465068811e-16
+    },
+    {
+      "setting": "N768_dt0025",
+      "N": 768,
+      "dt": 0.025,
+      "seed": 17,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1698.0,
+          "captured_at": 1746.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.15572628077318257
+        }
+      ],
+      "mass_drift": 1.447915861281975e-15
+    },
+    {
+      "setting": "N768_dt0025",
+      "N": 768,
+      "dt": 0.025,
+      "seed": 18,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1436.0,
+          "captured_at": 1484.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.18956429903237929
+        }
+      ],
+      "mass_drift": 5.3614520230856515e-15
+    },
+    {
+      "setting": "N768_dt0025",
+      "N": 768,
+      "dt": 0.025,
+      "seed": 19,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 2292.0,
+          "captured_at": 2340.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.18356517945344336
+        }
+      ],
+      "mass_drift": 2.627527824946204e-15
+    },
+    {
+      "setting": "N768_dt0025",
+      "N": 768,
+      "dt": 0.025,
+      "seed": 20,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ],
+        [
+          10,
+          8
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1558.0,
+          "captured_at": 1606.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.2678163711303043
+        },
+        {
+          "m": 10,
+          "entered_at": 2186.0,
+          "captured_at": 2234.0,
+          "changed": true,
+          "change": [
+            1612.0,
+            9
+          ],
+          "chi": 0.3120724090264045
+        }
+      ],
+      "mass_drift": 6.800116025829083e-16
+    },
+    {
+      "setting": "N768_dt0025",
+      "N": 768,
+      "dt": 0.025,
+      "seed": 21,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          10
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1386.0,
+          "captured_at": 1434.0,
+          "changed": true,
+          "change": [
+            42.0,
+            10
+          ],
+          "chi": 0.12716761026908324
+        },
+        {
+          "m": 10,
+          "entered_at": 1470.0,
+          "captured_at": 1518.0,
+          "changed": true,
+          "change": [
+            1468.0,
+            9
+          ],
+          "chi": 0.15142976913875372
+        }
+      ],
+      "mass_drift": 3.5295840324541436e-15
+    },
+    {
+      "setting": "N768_dt0025",
+      "N": 768,
+      "dt": 0.025,
+      "seed": 22,
+      "transitions": [
+        [
+          12,
+          11
+        ],
+        [
+          11,
+          9
+        ],
+        [
+          9,
+          8
+        ],
+        [
+          8,
+          7
+        ],
+        [
+          7,
+          6
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1408.0,
+          "captured_at": 1456.0,
+          "changed": true,
+          "change": [
+            400.0,
+            10
+          ],
+          "chi": 0.2590012065591952
+        },
+        {
+          "m": 9,
+          "entered_at": 1814.0,
+          "captured_at": 1862.0,
+          "changed": true,
+          "change": [
+            144.0,
+            8
+          ],
+          "chi": 0.4838344202582281
+        }
+      ],
+      "mass_drift": 3.5064543861077863e-15
+    },
+    {
+      "setting": "N768_dt0025",
+      "N": 768,
+      "dt": 0.025,
+      "seed": 23,
+      "transitions": [
+        [
+          12,
+          11
+        ]
+      ],
+      "branches": [
+        {
+          "m": 11,
+          "entered_at": 1976.0,
+          "captured_at": 2024.0,
+          "changed": false,
+          "change": null,
+          "chi": 0.13435950645784922
+        }
+      ],
+      "mass_drift": 3.2844097811827546e-15
+    }
+  ],
+  "summary": [
+    {
+      "setting": "N384_dt0025",
+      "N": 384,
+      "dt": 0.025,
+      "trajectories": 24,
+      "downward_transitions": 50,
+      "upward_transitions": 0,
+      "transitions_per_trajectory": 2.0833333333333335,
+      "interventions": 44,
+      "reactive": 7,
+      "reactive_fraction": 0.1590909090909091,
+      "chi_auc": 0.4671814671814672,
+      "max_mass_drift": 1.2895356079252926e-14
+    },
+    {
+      "setting": "N512_dt0025",
+      "N": 512,
+      "dt": 0.025,
+      "trajectories": 24,
+      "downward_transitions": 60,
+      "upward_transitions": 0,
+      "transitions_per_trajectory": 2.5,
+      "interventions": 50,
+      "reactive": 22,
+      "reactive_fraction": 0.44,
+      "chi_auc": 0.7694805194805194,
+      "max_mass_drift": 5.372519920263108e-15
+    },
+    {
+      "setting": "N768_dt0025",
+      "N": 768,
+      "dt": 0.025,
+      "trajectories": 24,
+      "downward_transitions": 55,
+      "upward_transitions": 0,
+      "transitions_per_trajectory": 2.2916666666666665,
+      "interventions": 41,
+      "reactive": 17,
+      "reactive_fraction": 0.4146341463414634,
+      "chi_auc": 0.7426470588235294,
+      "max_mass_drift": 1.7476760779307675e-14
+    },
+    {
+      "setting": "N512_dt00125",
+      "N": 512,
+      "dt": 0.0125,
+      "trajectories": 24,
+      "downward_transitions": 47,
+      "upward_transitions": 0,
+      "transitions_per_trajectory": 1.9583333333333333,
+      "interventions": 39,
+      "reactive": 15,
+      "reactive_fraction": 0.38461538461538464,
+      "chi_auc": 0.8555555555555555,
+      "max_mass_drift": 5.7106283677527125e-15
+    },
+    {
+      "setting": "N512_dt000625",
+      "N": 512,
+      "dt": 0.00625,
+      "trajectories": 24,
+      "downward_transitions": 54,
+      "upward_transitions": 0,
+      "transitions_per_trajectory": 2.25,
+      "interventions": 42,
+      "reactive": 19,
+      "reactive_fraction": 0.4523809523809524,
+      "chi_auc": 0.8100686498855835,
+      "max_mass_drift": 7.972870410752342e-15
+    }
+  ]
+}
