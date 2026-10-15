@@ -50,26 +50,3 @@ python code/preparation_gap.py pairs.csv --family-size 1
 
 The CSV must have columns `outcome_a,outcome_b`, with binary values and one independent paired unit per row. The default is a two-sided absolute-gap bound. Add `--directed` only for a contrast fixed before inspecting outcomes; use the total number of planned comparisons as `--family-size`. Repeated correlated observations cannot be treated as independent rows. Both preparations must share the visible label, subsequent dynamics, event definition and observation rule. A positive half-gap lower bound excludes a common prediction at a smaller chosen error tolerance. A small lower bound is inconclusive.
 
-## License
-
-MIT License
-
-Copyright (c) 2026 Ruocun Ou
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
